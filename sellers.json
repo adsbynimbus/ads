@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "01-04-2024"
+    "last_updated": "01-08-2024"
   },
   "identifiers": [
     {
@@ -10,6 +10,13 @@
       "value": "dd263a8a859bd0e0"
     }
   ],
-  "sellers": [],
+  "sellers": [
+    {
+      "domain": "paltalk.com",
+      "name": "Paltalk Group",
+      "seller_id": "26f97235-0326-461d-999e-0f4b5589caf6",
+      "seller_type": "PUBLISHER"
+    }
+  ],
   "version": 1.0
 }
