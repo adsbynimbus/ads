@@ -16,6 +16,30 @@
       "name": "Paltalk Group",
       "seller_id": "26f97235-0326-461d-999e-0f4b5589caf6",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "yearofcode.com",
+      "name": "Year of Code",
+      "seller_id": "98c1b2f7-e6d2-4643-b52d-087fa159884f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "sliide.com",
+      "name": "Sliide",
+      "seller_id": "f51964ec-0df7-4722-b1a8-3e313d48e5b0",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "imgur.com",
+      "name": "Imgur",
+      "seller_id": "88738a12-c703-4a52-9058-05523f34343d",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "glowing.com",
+      "name": "Glowing",
+      "seller_id": "f2fa6eb7-9271-4ab6-ad31-5b6204b17e0f",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
