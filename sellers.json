@@ -46,6 +46,12 @@
       "name": "PhotoCircle",
       "seller_id": "0aa62643-59c5-43be-91da-fb2ba50b6d92",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "1se.co",
+      "name": "1 Second Everyday PBC",
+      "seller_id": "6643f2dc-27e0-4649-99d2-19eba1e7ba3b",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
