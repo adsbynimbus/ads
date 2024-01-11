@@ -40,6 +40,12 @@
       "name": "Glowing",
       "seller_id": "f2fa6eb7-9271-4ab6-ad31-5b6204b17e0f",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "photocircleapp.com",
+      "name": "PhotoCircle",
+      "seller_id": "0aa62643-59c5-43be-91da-fb2ba50b6d92",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
