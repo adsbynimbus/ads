@@ -58,6 +58,18 @@
       "name": "9GAG",
       "seller_id": "9711012c-a005-4767-9f5a-8096d268d11a",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "hornet.com",
+      "name": "Hornet",
+      "seller_id": "cc66928b-d324-416b-be9f-467bd8c42b89",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "radiofxinc.com",
+      "name": "RadioFX",
+      "seller_id": "e4c772a0-402a-4879-8dd3-e5bda1db750a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
