@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "01-11-2024"
+    "last_updated": "01-12-2024"
   },
   "identifiers": [
     {
@@ -57,6 +57,48 @@
       "domain": "9gag.com",
       "name": "9GAG",
       "seller_id": "9711012c-a005-4767-9f5a-8096d268d11a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "hornet.com",
+      "name": "Hornet",
+      "seller_id": "cc66928b-d324-416b-be9f-467bd8c42b89",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "radiofxinc.com",
+      "name": "RadioFX",
+      "seller_id": "e4c772a0-402a-4879-8dd3-e5bda1db750a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "tappa.com",
+      "name": "Tappa Operations Inc",
+      "seller_id": "9ba959cc-e321-44b9-87a6-270c5f5fa9fd",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "futuretodayinc.com",
+      "name": "Future Today",
+      "seller_id": "4db20e94-ba1a-447d-a281-9b161b8d5e9e",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "sharkexperience.com",
+      "name": "Edison Interactive",
+      "seller_id": "7e2fb983-a753-4a1b-82ad-b3a01fd5c11f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "kidoodle.tv",
+      "name": "Kidoodle",
+      "seller_id": "62ab9a6b-b749-4222-9ba1-6f3aced7da76",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "eyecon-app.com",
+      "name": "Eyecon App",
+      "seller_id": "e250db17-3754-4a1b-900e-4204b6e8fea8",
       "seller_type": "PUBLISHER"
     }
   ],
