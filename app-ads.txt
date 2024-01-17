@@ -1,0 +1,36 @@
+adsbynimbus.com, [Publisher seller ID], DIRECT, dd263a8a859bd0e0
+Media.net, 8CUQC3000, RESELLER
+sharethrough.com, Vlox9WTu, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 156557, RESELLER
+rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
+openx.com, 540274407, RESELLER, 6a698e2ec38604c6
+33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
+smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4342, RESELLER
+smartadserver.com, 4012, RESELLER
+lunamedia.io, 6bf03349-293b-4b25-939f-c553ba38021d, RESELLER, 524ecb396915caaf
+themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
+pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 4631344382657206988, RESELLER
+smartadserver.com, 4539, RESELLER, 060d053dcf45cbf3
+contextweb.com, 562329, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100322, RESELLER, 03113cd04947736d
+inmobi.com, ddb41d8a9f434a918d05a0fc9999d9f9, RESELLER, 83e75a7ae333ca9d
+freewheel.tv, 1585279, RESELLER
+lijit.com, 367217, RESELLER, fafdf38b16bf6b2b
+inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 0c2fa8130b884712913cc0bfc84e1c31, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
+inmobi.com, cac51fe616224c3c8f858f34b3267dd7, RESELLER, 83e75a7ae333ca9d
+iqzone.com,IQ263,RESELLER
+video.unrulymedia.com,5336134699710583737,RESELLER
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+opera.com,pub9438738043968,RESELLER,55a0c5fd61378de3
+consumable.com, 2001492, RESELLER, aefcd3d2f45b5070
+zetaglobal.net,998,RESELLER
+lijit.com,456186, RESELLER,fafdf38b16bf6b2b
+peak226.com,12900,RESELLER
+inmobi.com,59c7922793a3477b9419f0854d1da7e9,RESELLER,83e75a7ae333ca9d
+contextweb.com, 562569, RESELLER, 89ff185a4c4e857c
+loopme.com, 11520, RESELLER, 6c8d5f95897a5a3b
