@@ -1,4 +1,4 @@
-adsbynimbus.com, [Publisher seller ID], DIRECT, dd263a8a859bd0e0
+adsbynimbus.com, [PublisherSellerID], DIRECT, dd263a8a859bd0e0
 Media.net, 8CUQC3000, RESELLER
 sharethrough.com, Vlox9WTu, RESELLER, d53b998a7bd4ecd2
 pubmatic.com, 156557, RESELLER
