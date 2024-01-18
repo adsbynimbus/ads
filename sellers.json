@@ -100,6 +100,18 @@
       "name": "Eyecon App",
       "seller_id": "e250db17-3754-4a1b-900e-4204b6e8fea8",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "scopely.com",
+      "name": "Scopely",
+      "seller_id": "579aca46-17bc-4cd1-8e30-2ab5fa75b874",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "scoresapp.com",
+      "name": "Bluekozmo Software LLC",
+      "seller_id": "bfea8a7e-729f-4e61-8169-c94d2080546d",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
