@@ -112,6 +112,24 @@
       "name": "Bluekozmo Software LLC",
       "seller_id": "bfea8a7e-729f-4e61-8169-c94d2080546d",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "mocospace.com",
+      "name": "Mocospace",
+      "seller_id": "154cac3a-f113-449c-a71a-c1f9fc8bd597",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "shkabaj.net",
+      "name": "Shkabaj",
+      "seller_id": "0d731b10-ed80-44de-85c6-20f90fdddb51",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "drop-list.com",
+      "name": "Droplist",
+      "seller_id": "d8874cde-e693-4e64-9be1-29a7651255db",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
