@@ -130,6 +130,12 @@
       "name": "Droplist",
       "seller_id": "d8874cde-e693-4e64-9be1-29a7651255db",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "audiomack.com",
+      "name": "AudioMack",
+      "seller_id": "071a2031-8bd2-45e3-a4e1-5c6364b59032",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
