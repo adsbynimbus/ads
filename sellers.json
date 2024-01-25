@@ -142,6 +142,12 @@
       "name": "Wattpad",
       "seller_id": "5b41a292-d55c-4842-b38e-ea5f135396bc",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "degoo.com",
+      "name": "Degoo",
+      "seller_id": "327ae192-a599-485c-89c7-c5b3515dedb2",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
