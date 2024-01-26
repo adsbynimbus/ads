@@ -148,6 +148,12 @@
       "name": "Degoo",
       "seller_id": "327ae192-a599-485c-89c7-c5b3515dedb2",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "timesofindia.indiatimes.com",
+      "name": "Times of India Group",
+      "seller_id": "8f55286a-efd8-4768-93b5-597d9687698a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
