@@ -154,6 +154,12 @@
       "name": "Times of India Group",
       "seller_id": "8f55286a-efd8-4768-93b5-597d9687698a",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "smartnews.com",
+      "name": "SmartNews",
+      "seller_id": "befef12e-45ad-4131-913f-9b9e660366e0",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
