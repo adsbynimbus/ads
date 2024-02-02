@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "01-12-2024"
+    "last_updated": "02-02-2024"
   },
   "identifiers": [
     {
@@ -159,6 +159,12 @@
       "domain": "smartnews.com",
       "name": "SmartNews",
       "seller_id": "befef12e-45ad-4131-913f-9b9e660366e0",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "pelmorex.com",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
       "seller_type": "PUBLISHER"
     }
   ],
