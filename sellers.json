@@ -166,6 +166,12 @@
       "name": "Pelmorex Corp",
       "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "locketcamera.com",
+      "name": "Locket Labs",
+      "seller_id": "931a5e00-8c5c-4c7e-a713-2763819c9e15",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
