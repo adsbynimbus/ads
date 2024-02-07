@@ -184,6 +184,12 @@
       "name": "ODK Media, INC.",
       "seller_id": "15abacc5-7409-4941-ae3a-07abafd43402",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "dailymail.co.uk",
+      "name": "Daily Mail",
+      "seller_id": "5971e20c-6b8a-4d51-b0fc-d27d6d4e7fee",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
