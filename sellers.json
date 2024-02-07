@@ -172,6 +172,18 @@
       "name": "Locket Labs",
       "seller_id": "931a5e00-8c5c-4c7e-a713-2763819c9e15",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "itsbawa.com",
+      "name": "Bawa",
+      "seller_id": "afa3bf29-daee-4b62-97be-8ad8e0dd7df5",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "ondemandkorea.com",
+      "name": "ODK Media, INC.",
+      "seller_id": "15abacc5-7409-4941-ae3a-07abafd43402",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
