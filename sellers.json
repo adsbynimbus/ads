@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "02-07-2024"
+    "last_updated": "02-28-2024"
   },
   "identifiers": [
     {
@@ -189,6 +189,12 @@
       "domain": "dailymail.co.uk",
       "name": "Daily Mail",
       "seller_id": "5971e20c-6b8a-4d51-b0fc-d27d6d4e7fee",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "tumblr.com",
+      "name": "Tumblr Inc",
+      "seller_id": "ca8881e5-7c55-44c3-a9f0-44777e766b3e",
       "seller_type": "PUBLISHER"
     }
   ],
