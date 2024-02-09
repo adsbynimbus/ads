@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "02-28-2024"
+    "last_updated": "02-09-2024"
   },
   "identifiers": [
     {
@@ -195,6 +195,12 @@
       "domain": "tumblr.com",
       "name": "Tumblr Inc",
       "seller_id": "ca8881e5-7c55-44c3-a9f0-44777e766b3e",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "weatherbug.com",
+      "name": "Weatherbug",
+      "seller_id": "9dc4415f-876e-4826-bd6a-b852f0a1cbeb",
       "seller_type": "PUBLISHER"
     }
   ],
