@@ -202,6 +202,12 @@
       "name": "Weatherbug",
       "seller_id": "9dc4415f-876e-4826-bd6a-b852f0a1cbeb",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "livemixtapes.com",
+      "name": "LiveMixTapes",
+      "seller_id": "2a0f1a10-efb0-4e06-bb09-0950ec115c61",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
