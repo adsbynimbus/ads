@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "02-09-2024"
+    "last_updated": "02-20-2024"
   },
   "identifiers": [
     {
@@ -207,6 +207,12 @@
       "domain": "livemixtapes.com",
       "name": "LiveMixTapes",
       "seller_id": "2a0f1a10-efb0-4e06-bb09-0950ec115c61",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "onefootball.com",
+      "name": "Onefootball GmbH",
+      "seller_id": "34640410-5aeb-454c-841f-1af506c713e8",
       "seller_type": "PUBLISHER"
     }
   ],
