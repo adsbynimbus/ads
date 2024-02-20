@@ -13,6 +13,26 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          path: './'
-      - run: |
+          ref: ${{ github.head_ref }}
+          path: ads
+
+      - name: Validate JSON
+        id: json-validate
+        working-directory: ads
+        run: |
           cat sellers.json | jq -e
+
+      - name: Update JSON Timestamp
+        id: json-timestamp
+        working-directory: ads
+        run: |
+          cat sellers.json | jq '.ext.last_updated = (now | todate)' | tee sellers.json
+
+      - name: Push Changes to PR
+        working-directory: ads
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+          git commit -am "Update sellers.json timestamp"
+          git push
