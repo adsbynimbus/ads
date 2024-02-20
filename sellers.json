@@ -208,6 +208,12 @@
       "name": "LiveMixTapes",
       "seller_id": "2a0f1a10-efb0-4e06-bb09-0950ec115c61",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "onefootball.com",
+      "name": "Onefootball GmbH",
+      "seller_id": "34640410-5aeb-454c-841f-1af506c713e8",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
