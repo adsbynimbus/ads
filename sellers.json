@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-02-20T16:35:25Z"
+    "last_updated": "2024-02-21T16:19:12Z"
   },
   "identifiers": [
     {
@@ -213,6 +213,12 @@
       "domain": "onefootball.com",
       "name": "Onefootball GmbH",
       "seller_id": "34640410-5aeb-454c-841f-1af506c713e8",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "shopkick.com",
+      "name": "Shopkick",
+      "seller_id": "6fc2567a-56a9-4f36-a499-30cffa5abab1",
       "seller_type": "PUBLISHER"
     }
   ],
