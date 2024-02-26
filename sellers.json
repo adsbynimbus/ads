@@ -220,6 +220,24 @@
       "name": "Shopkick",
       "seller_id": "6fc2567a-56a9-4f36-a499-30cffa5abab1",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "cashwalklabs.io",
+      "name": "Cashwalk Labs, Inc.",
+      "seller_id": "72c9697a-507b-4427-8010-1bec992fca4f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "way2news.com",
+      "name": "Way2News Private Limited",
+      "seller_id": "fa1f378b-30c9-4ae8-8721-3964d261d3fd",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "my.games",
+      "name": "MY.GAMES B.V.",
+      "seller_id": "037f39df-b297-4188-ae6f-0629143ab85a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
