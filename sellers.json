@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-02-27T17:01:36Z"
+    "last_updated": "2024-03-01T16:01:30Z"
   },
   "identifiers": [
     {
@@ -237,6 +237,12 @@
       "domain": "my.games",
       "name": "MY.GAMES B.V.",
       "seller_id": "037f39df-b297-4188-ae6f-0629143ab85a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "curiositymedia.com",
+      "name": "Curiosity Media",
+      "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
       "seller_type": "PUBLISHER"
     }
   ],
