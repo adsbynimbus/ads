@@ -244,6 +244,12 @@
       "name": "Encyclopedia Britannica",
       "seller_id": "ef7b73b0-92cf-4e0e-b541-33fa0904b925",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "curiositymedia.com",
+      "name": "Curiosity Media",
+      "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
