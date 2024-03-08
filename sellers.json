@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-03-01T17:06:48Z"
+    "last_updated": "2024-03-08T18:21:42Z"
   },
   "identifiers": [
     {
@@ -243,6 +243,12 @@
       "domain": "merriam-webster.com",
       "name": "Encyclopedia Britannica",
       "seller_id": "ef7b73b0-92cf-4e0e-b541-33fa0904b925",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "teamsnap.com",
+      "name": "TeamSnap",
+      "seller_id": "5f34a7b1-a323-46ec-b23f-7a75eca1ee6b",
       "seller_type": "PUBLISHER"
     }
   ],
