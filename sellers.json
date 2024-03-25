@@ -250,6 +250,12 @@
       "name": "TeamSnap",
       "seller_id": "5f34a7b1-a323-46ec-b23f-7a75eca1ee6b",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "perfect365.com",
+      "name": "Perfect365",
+      "seller_id": "a1502013-4962-4b57-bd49-7e8d5f33bff6",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
