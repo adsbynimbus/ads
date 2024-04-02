@@ -256,6 +256,12 @@
       "name": "Perfect365",
       "seller_id": "a1502013-4962-4b57-bd49-7e8d5f33bff6",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "Now.gg",
+      "name": "Now.gg",
+      "seller_id": "8643f886-beb4-47df-b0d9-821f74d1d73c",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
