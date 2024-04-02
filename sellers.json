@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-03-25T20:44:11Z"
+    "last_updated": "2024-04-02T20:39:41Z"
   },
   "identifiers": [
     {
@@ -255,6 +255,12 @@
       "domain": "perfect365.com",
       "name": "Perfect365",
       "seller_id": "a1502013-4962-4b57-bd49-7e8d5f33bff6",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "Now.gg",
+      "name": "Now.gg",
+      "seller_id": "8643f886-beb4-47df-b0d9-821f74d1d73c",
       "seller_type": "PUBLISHER"
     }
   ],
