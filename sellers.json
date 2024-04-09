@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-04-08T20:47:09Z"
+    "last_updated": "2024-04-09T14:25:24Z"
   },
   "identifiers": [
     {
@@ -222,8 +222,8 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "cashwalklabs.io",
-      "name": "Cashwalk Labs, Inc.",
+      "domain": "linkareer.com",
+      "name": "Linkareer",
       "seller_id": "72c9697a-507b-4427-8010-1bec992fca4f",
       "seller_type": "PUBLISHER"
     },
@@ -258,7 +258,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "Now.gg",
+      "domain": "now.gg",
       "name": "Now.gg",
       "seller_id": "8643f886-beb4-47df-b0d9-821f74d1d73c",
       "seller_type": "PUBLISHER"
