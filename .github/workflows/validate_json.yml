@@ -1,11 +1,13 @@
 name: Sellers.json validation
 on:
   push:
+    paths:
+      - 'ads/sellers.json'
     branches:
     - main
   pull_request:
     branches:
-    - main
+      - main
 
 jobs:
   verify-json-validation:
