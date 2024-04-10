@@ -268,6 +268,12 @@
       "name": "IndyZa Lab",
       "seller_id": "d0fd71fb-6666-4329-a8c0-f1b06ef9d7cb",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "thechive.com",
+      "name": "Chive Media Group LLC",
+      "seller_id": "0cf1476e-4d62-423c-98b9-cf6c7ecc40f2",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
