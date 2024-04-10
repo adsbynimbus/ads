@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-04-09T14:25:24Z"
+    "last_updated": "2024-04-10T14:05:36Z"
   },
   "identifiers": [
     {
@@ -261,6 +261,12 @@
       "domain": "now.gg",
       "name": "Now.gg",
       "seller_id": "8643f886-beb4-47df-b0d9-821f74d1d73c",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "viabus.co",
+      "name": "IndyZa Lab",
+      "seller_id": "d0fd71fb-6666-4329-a8c0-f1b06ef9d7cb",
       "seller_type": "PUBLISHER"
     }
   ],
