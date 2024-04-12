@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-04-12T16:35:53Z"
+    "last_updated": "2024-04-10T17:14:09Z"
   },
   "identifiers": [
     {
@@ -273,12 +273,6 @@
       "domain": "thechive.com",
       "name": "Chive Media Group LLC",
       "seller_id": "0cf1476e-4d62-423c-98b9-cf6c7ecc40f2",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "domain": "timehop.com",
-      "name": "Timehop",
-      "seller_id": "d9642a3e-be97-47d0-8a56-d62c27b1088b",
       "seller_type": "PUBLISHER"
     }
   ],
