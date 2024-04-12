@@ -274,6 +274,12 @@
       "name": "Chive Media Group LLC",
       "seller_id": "0cf1476e-4d62-423c-98b9-cf6c7ecc40f2",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "timehop.com",
+      "name": "Timehop",
+      "seller_id": "d9642a3e-be97-47d0-8a56-d62c27b1088b",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
