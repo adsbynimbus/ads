@@ -274,6 +274,12 @@
       "name": "Chive Media Group LLC",
       "seller_id": "0cf1476e-4d62-423c-98b9-cf6c7ecc40f2",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "textnow.com",
+      "name": "TextNow",
+      "seller_id": "6eab10ea-b3ba-4d64-9895-3c1ebdac46ef",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
