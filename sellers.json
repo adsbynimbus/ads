@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-04-16T21:50:06Z"
+    "last_updated": "2024-04-18T13:51:49Z"
   },
   "identifiers": [
     {
@@ -273,6 +273,12 @@
       "domain": "thechive.com",
       "name": "Chive Media Group LLC",
       "seller_id": "0cf1476e-4d62-423c-98b9-cf6c7ecc40f2",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "textnow.com",
+      "name": "TextNow",
+      "seller_id": "6eab10ea-b3ba-4d64-9895-3c1ebdac46ef",
       "seller_type": "PUBLISHER"
     }
   ],
