@@ -37,7 +37,7 @@ inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
 video.unrulymedia.com, 3881266972, RESELLER
 smartadserver.com, 4343, RESELLER
 contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
-conversantmedia.com, 100396, RESELLER, 03113cd04947736dw
+conversantmedia.com, 100396, RESELLER
 sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 e-planning.net,af5a107262468954, RESELLER,c1ba615865ed87b2
 improvedigital.com, 1408, RESELLER
