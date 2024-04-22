@@ -280,6 +280,12 @@
       "name": "TextNow",
       "seller_id": "6eab10ea-b3ba-4d64-9895-3c1ebdac46ef",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "bigfishgames.com",
+      "name": "Big Fish Games, Inc.",
+      "seller_id": "5bf06403-7692-4c88-a1c6-4d0511ca730a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
