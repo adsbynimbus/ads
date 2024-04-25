@@ -298,6 +298,12 @@
       "name": "FUNCORP LIMITED",
       "seller_id": "c82f63b6-354d-4668-8dec-2b88bf9e9b5b",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "imvu.com",
+      "name": "IMVU, Inc.",
+      "seller_id": "c5e179b9-86af-410e-b1d6-93b9d5ef3a37",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
