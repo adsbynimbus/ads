@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-04-22T13:57:07Z"
+    "last_updated": "2024-04-25T18:12:22Z"
   },
   "identifiers": [
     {
@@ -285,6 +285,18 @@
       "domain": "bigfishgames.com",
       "name": "Big Fish Games, Inc.",
       "seller_id": "5bf06403-7692-4c88-a1c6-4d0511ca730a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "funtech.co",
+      "name": "FUNTECH PUBLISHING LTD",
+      "seller_id": "66ae8ef7-2ff2-47c6-b983-33ad383bf398",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "fun.co",
+      "name": "FUNCORP LIMITED",
+      "seller_id": "c82f63b6-354d-4668-8dec-2b88bf9e9b5b",
       "seller_type": "PUBLISHER"
     }
   ],
