@@ -223,8 +223,8 @@
     },
     {
       "domain": "linkareer.com",
-      "name": "Linkareer",
-      "seller_id": "72c9697a-507b-4427-8010-1bec992fca4f",
+      "name": "Linkareer, Inc",
+      "seller_id": "ed117dca-77c6-4d7c-a8ed-599bde449b85",
       "seller_type": "PUBLISHER"
     },
     {
@@ -303,6 +303,12 @@
       "domain": "imvu.com",
       "name": "IMVU, Inc.",
       "seller_id": "c5e179b9-86af-410e-b1d6-93b9d5ef3a37",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "cashwalklabs.io",
+      "name": "Nudge Healthcare, Inc.",
+      "seller_id": "42d50b6b-006d-4f47-b48f-bdca14fca217",
       "seller_type": "PUBLISHER"
     }
   ],
