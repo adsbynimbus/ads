@@ -310,6 +310,12 @@
       "name": "Nudge Healthcare, Inc.",
       "seller_id": "42d50b6b-006d-4f47-b48f-bdca14fca217",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "impalastudios.com",
+      "name": "Sofa IT d.o.o.",
+      "seller_id": "b4ef4de2-a714-46b8-b00d-513fb5c2c213",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
