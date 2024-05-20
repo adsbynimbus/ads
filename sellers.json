@@ -316,6 +316,18 @@
       "name": "Sofa IT d.o.o.",
       "seller_id": "b4ef4de2-a714-46b8-b00d-513fb5c2c213",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "themeetgroup.com",
+      "name": "The Meet Group",
+      "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "curiositymedia.com",
+      "name": "Curiosity Media",
+      "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
