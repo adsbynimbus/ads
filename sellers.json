@@ -166,6 +166,12 @@
       "name": "Pelmorex Corp",
       "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "memory-word.com",
+      "name": "SPEC UP AD",
+      "seller_id": "34bde87e-52bd-4c7d-a696-739a03005c1a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1.0
