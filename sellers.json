@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-05-20T18:06:09Z"
+    "last_updated": "2024-05-22T14:20:21Z"
   },
   "identifiers": [
     {
@@ -327,6 +327,12 @@
       "domain": "curiositymedia.com",
       "name": "Curiosity Media",
       "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "specupad.com",
+      "name": "SPEC UP AD",
+      "seller_id": "34bde87e-52bd-4c7d-a696-739a03005c1a",
       "seller_type": "PUBLISHER"
     }
   ],
