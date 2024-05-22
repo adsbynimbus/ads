@@ -328,6 +328,12 @@
       "name": "Curiosity Media",
       "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "specupad.com",
+      "name": "SPEC UP AD",
+      "seller_id": "34bde87e-52bd-4c7d-a696-739a03005c1a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
