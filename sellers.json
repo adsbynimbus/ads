@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-05-22T14:20:21Z"
+    "last_updated": "2024-06-04T15:05:45Z"
   },
   "identifiers": [
     {
@@ -333,6 +333,18 @@
       "domain": "specupad.com",
       "name": "SPEC UP AD",
       "seller_id": "34bde87e-52bd-4c7d-a696-739a03005c1a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "openweb.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "cashwalklabs.io",
+      "name": " Cashwalk Labs Inc.",
+      "seller_id": "72c9697a-507b-4427-8010-1bec992fca4f",
       "seller_type": "PUBLISHER"
     }
   ],
