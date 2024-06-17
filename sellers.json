@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-06-14T16:35:54Z"
+    "last_updated": "2024-06-17T21:25:39Z"
   },
   "identifiers": [
     {
@@ -345,6 +345,12 @@
       "domain": "cashwalklabs.io",
       "name": " Cashwalk Labs Inc.",
       "seller_id": "72c9697a-507b-4427-8010-1bec992fca4f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "rave.io",
+      "name": " Rave",
+      "seller_id": "8258d5b3-83e6-404f-b18e-f6c3ff6fdba8",
       "seller_type": "PUBLISHER"
     }
   ],
