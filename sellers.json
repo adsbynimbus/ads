@@ -352,6 +352,12 @@
       "name": " Rave",
       "seller_id": "8258d5b3-83e6-404f-b18e-f6c3ff6fdba8",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "stocktwits.com",
+      "name": " Stocktwits, Inc.",
+      "seller_id": "0f098d6f-967e-4b55-a85d-8d89e9e7ce23",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
