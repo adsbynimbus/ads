@@ -102,3 +102,8 @@ tubia.com, 40106, RESELLER
 azberry.com, 321002, RESELLER
 rubiconproject.com, 26526, RESELLER, 0bfd66d529a55807
 themediagrid.com, A7OJMU, DIRECT, 35d5010d7789b49d
+videoheroes.tv, 212644, RESELLER, 064bc410192443d8
+openx.com, 559792583, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
+freewheel.tv, 1601610, RESELLER
