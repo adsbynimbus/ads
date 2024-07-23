@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-07-23T16:24:15Z"
+    "last_updated": "2024-07-23T17:09:30Z"
   },
   "identifiers": [
     {
@@ -357,6 +357,18 @@
       "domain": "stocktwits.com",
       "name": " Stocktwits, Inc.",
       "seller_id": "0f098d6f-967e-4b55-a85d-8d89e9e7ce23",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "offerup.com",
+      "name": "OfferUp Inc.",
+      "seller_id": "8b04e69a-0c02-42ac-a9db-9527a2870af1",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "eastendtech.ky",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
       "seller_type": "PUBLISHER"
     }
   ],
