@@ -107,3 +107,4 @@ openx.com, 559792583, RESELLER, 6a698e2ec38604c6
 rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 freewheel.tv, 1601610, RESELLER
+pubmatic.com, 165215, RESELLER, 5d62403b186f2ace
