@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-07-31T17:34:54Z"
+    "last_updated": "2024-08-02T22:30:52Z"
   },
   "identifiers": [
     {
@@ -369,6 +369,12 @@
       "domain": "eastendtech.ky",
       "name": "East End Technologies Ltd",
       "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "airkast.com",
+      "name": "diDNA",
+      "seller_id": "327fab16-bc7b-40ad-b7b9-e07be317d2c6",
       "seller_type": "PUBLISHER"
     }
   ],
