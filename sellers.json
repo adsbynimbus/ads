@@ -376,6 +376,12 @@
       "name": "diDNA",
       "seller_id": "327fab16-bc7b-40ad-b7b9-e07be317d2c6",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "classiccardgames.com",
+      "name": "Classic Card Games Limited",
+      "seller_id": "ef623bcd-c737-415c-ac62-8874fdc55242",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
