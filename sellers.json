@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-08-02T22:30:52Z"
+    "last_updated": "2024-08-08T21:26:53Z"
   },
   "identifiers": [
     {
@@ -375,6 +375,12 @@
       "domain": "airkast.com",
       "name": "diDNA",
       "seller_id": "327fab16-bc7b-40ad-b7b9-e07be317d2c6",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "classiccardgames.com",
+      "name": "Classic Card Games Limited",
+      "seller_id": "ef623bcd-c737-415c-ac62-8874fdc55242",
       "seller_type": "PUBLISHER"
     }
   ],
