@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-08-09T17:18:43Z"
+    "last_updated": "2024-08-27T20:26:28Z"
   },
   "identifiers": [
     {
@@ -84,27 +84,9 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "sharkexperience.com",
-      "name": "Edison Interactive",
-      "seller_id": "7e2fb983-a753-4a1b-82ad-b3a01fd5c11f",
-      "seller_type": "PUBLISHER"
-    },
-    {
       "domain": "kidoodle.tv",
       "name": "Kidoodle",
       "seller_id": "62ab9a6b-b749-4222-9ba1-6f3aced7da76",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "domain": "eyecon-app.com",
-      "name": "Eyecon App",
-      "seller_id": "e250db17-3754-4a1b-900e-4204b6e8fea8",
-      "seller_type": "PUBLISHER"
-    },
-    {
-      "domain": "scopely.com",
-      "name": "Scopely",
-      "seller_id": "579aca46-17bc-4cd1-8e30-2ab5fa75b874",
       "seller_type": "PUBLISHER"
     },
     {
@@ -168,7 +150,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "locketcamera.com",
+      "domain": "locket.camera",
       "name": "Locket Labs",
       "seller_id": "931a5e00-8c5c-4c7e-a713-2763819c9e15",
       "seller_type": "PUBLISHER"
@@ -222,7 +204,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "linkareer.com",
+      "domain": "timespread.co.kr",
       "name": "Linkareer, Inc",
       "seller_id": "ed117dca-77c6-4d7c-a8ed-599bde449b85",
       "seller_type": "PUBLISHER"
@@ -330,7 +312,7 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "specupad.com",
+      "domain": "memory-word.com",
       "name": "SPEC UP AD",
       "seller_id": "34bde87e-52bd-4c7d-a696-739a03005c1a",
       "seller_type": "PUBLISHER"
@@ -343,19 +325,19 @@
     },
     {
       "domain": "cashwalklabs.io",
-      "name": " Cashwalk Labs Inc.",
+      "name": "Cashwalk Labs Inc.",
       "seller_id": "72c9697a-507b-4427-8010-1bec992fca4f",
       "seller_type": "PUBLISHER"
     },
     {
       "domain": "rave.io",
-      "name": " Rave",
+      "name": "Rave",
       "seller_id": "8258d5b3-83e6-404f-b18e-f6c3ff6fdba8",
       "seller_type": "PUBLISHER"
     },
     {
       "domain": "stocktwits.com",
-      "name": " Stocktwits, Inc.",
+      "name": "Stocktwits, Inc.",
       "seller_id": "0f098d6f-967e-4b55-a85d-8d89e9e7ce23",
       "seller_type": "PUBLISHER"
     },
