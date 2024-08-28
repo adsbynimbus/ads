@@ -147,7 +147,10 @@
       "domain": "pelmorex.com",
       "name": "Pelmorex Corp",
       "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "locket.camera",
@@ -273,13 +276,19 @@
       "domain": "funtech.co",
       "name": "FUNTECH PUBLISHING LTD",
       "seller_id": "66ae8ef7-2ff2-47c6-b983-33ad383bf398",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "fun.co",
       "name": "FUNCORP LIMITED",
       "seller_id": "c82f63b6-354d-4668-8dec-2b88bf9e9b5b",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "imvu.com",
@@ -303,13 +312,19 @@
       "domain": "themeetgroup.com",
       "name": "The Meet Group",
       "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "curiositymedia.com",
       "name": "Curiosity Media",
       "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "memory-word.com",
@@ -321,7 +336,10 @@
       "domain": "openweb.com",
       "name": "Open Web Technologies Ltd",
       "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "cashwalklabs.io",
@@ -348,10 +366,13 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "eastendtech.ky",
+      "domain": "eetapps.com",
       "name": "East End Technologies Ltd",
       "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "airkast.com",
