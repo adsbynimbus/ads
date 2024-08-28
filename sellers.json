@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-08-27T20:26:28Z"
+    "last_updated": "2024-08-28T20:33:37Z"
   },
   "identifiers": [
     {
@@ -147,7 +147,80 @@
       "domain": "pelmorex.com",
       "name": "Pelmorex Corp",
       "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "clima.com",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Clima) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "eltiempo.es",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Eltiempo.es) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "goplaya.app",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (GoPlaya / GoBeach) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "meteomedia.com",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Meteo Media) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "otempo.pt",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Otempo) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "skio.app",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (SKIO) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "theweathernetwork.com",
+      "name": "Pelmorex Corp",
+      "seller_id": "75330193-e4a9-468b-87dd-ec30ada8287e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Weather Network) is a subsidiary of a larger company, Pelmorex Corp",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "locket.camera",
@@ -273,13 +346,49 @@
       "domain": "funtech.co",
       "name": "FUNTECH PUBLISHING LTD",
       "seller_id": "66ae8ef7-2ff2-47c6-b983-33ad383bf398",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "americasbestpics.com",
+      "name": "FUNTECH PUBLISHING LTD",
+      "seller_id": "66ae8ef7-2ff2-47c6-b983-33ad383bf398",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (ABPV America's best pics&vids) is a subsidiary of a larger company, FUNTECH PUBLISHING LTD",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "funxd.co",
+      "name": "FUNTECH PUBLISHING LTD",
+      "seller_id": "66ae8ef7-2ff2-47c6-b983-33ad383bf398",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (FunXD) is a subsidiary of a larger company, FUNTECH PUBLISHING LTD",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "fun.co",
       "name": "FUNCORP LIMITED",
       "seller_id": "c82f63b6-354d-4668-8dec-2b88bf9e9b5b",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "ifunny.co",
+      "name": "FUNCORP LIMITED",
+      "seller_id": "c82f63b6-354d-4668-8dec-2b88bf9e9b5b",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (iFunny) is a subsidiary of a larger company, FUNCORP LIMITED",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "imvu.com",
@@ -303,13 +412,89 @@
       "domain": "themeetgroup.com",
       "name": "The Meet Group",
       "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "meetme.com",
+      "name": "The Meet Group",
+      "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Meetme) is a subsidiary of a larger company, The Meet Group",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "growlrapp.com",
+      "name": "The Meet Group",
+      "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Growlr) is a subsidiary of a larger company, The Meet Group",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "tagged.com",
+      "name": "The Meet Group",
+      "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Tagged) is a subsidiary of a larger company, The Meet Group",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "skout.com",
+      "name": "The Meet Group",
+      "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Skout) is a subsidiary of a larger company, The Meet Group",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hi5.com",
+      "name": "The Meet Group",
+      "seller_id": "dd3c5328-09d4-4aab-9b8a-0af70256280a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Hi5) is a subsidiary of a larger company, The Meet Group",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "curiositymedia.com",
       "name": "Curiosity Media",
       "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "ingles.com",
+      "name": "Curiosity Media",
+      "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Ingles.com) is a subsidiary of a larger company, Curiosity Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "spanishdict.com",
+      "name": "Curiosity Media",
+      "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Spanish Dictionary) is a subsidiary of a larger company, Curiosity Media",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "memory-word.com",
@@ -321,7 +506,110 @@
       "domain": "openweb.com",
       "name": "Open Web Technologies Ltd",
       "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "edition.cnn.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (CNN: Breaking US & World News) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "dailymail.co.uk",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (DailyMail) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "espn.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (ESPN: Live Sports & Scores) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "foxsports.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (FOX Sports: Watch Live) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "fotmob.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Fotomob) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "foxnews.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Fox News: US & World Headlines) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "goal.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (GOAL Football News & Scores) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "goal.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (GOAL Live Scores) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "nypost.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (New York Post) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "onefootball.com",
+      "name": "Open Web Technologies Ltd",
+      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Onefootball) is a subsidiary of a larger company, Open Web Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "cashwalklabs.io",
@@ -348,10 +636,73 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain": "eastendtech.ky",
+      "domain": "eetapps.com",
       "name": "East End Technologies Ltd",
       "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "easyhomescreen.com",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Easy Homescreen) is a subsidiary of a larger company, East End Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "weatherhomescreen.com",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Weather Now Launcher - Radar) is a subsidiary of a larger company, East End Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "inboxhomescreen.com",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Inbox Homescreen) is a subsidiary of a larger company, East End Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "biblehomescreen.com",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Bible Homscreen - Read Now) is a subsidiary of a larger company, East End Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "zodiaclauncher.com",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Zodiac Launcher) is a subsidiary of a larger company, East End Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newsnowhome.com",
+      "name": "East End Technologies Ltd",
+      "seller_id": "e7255254-f66b-4552-a857-d2de179b8fed",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NewsNow Home: Breaking & Local) is a subsidiary of a larger company, East End Technologies Ltd",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "airkast.com",
