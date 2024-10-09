@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-10-09T20:35:46Z"
+    "last_updated": "2024-10-09T20:45:28Z"
   },
   "identifiers": [
     {
@@ -720,6 +720,12 @@
       "domain": "scoremediaandgaming.com",
       "name": "Scoremobileinc",
       "seller_id": "0bd401bf-e4a8-408d-bc9b-e6827fed23c8",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "fotmob.com",
+      "name": "FotMob AS",
+      "seller_id": "133d033c-8ca8-4177-a781-f1bc565c73ce",
       "seller_type": "PUBLISHER"
     }
   ],
