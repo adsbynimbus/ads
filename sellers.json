@@ -715,6 +715,12 @@
       "name": "Classic Card Games Limited",
       "seller_id": "ef623bcd-c737-415c-ac62-8874fdc55242",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "scoremediaandgaming.com",
+      "name": "Scoremobileinc",
+      "seller_id": "0bd401bf-e4a8-408d-bc9b-e6827fed23c8",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
