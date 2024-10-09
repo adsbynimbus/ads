@@ -721,6 +721,12 @@
       "name": "Scoremobileinc",
       "seller_id": "0bd401bf-e4a8-408d-bc9b-e6827fed23c8",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "fotmob.com",
+      "name": "FotMob AS",
+      "seller_id": "133d033c-8ca8-4177-a781-f1bc565c73ce",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
