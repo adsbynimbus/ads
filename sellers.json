@@ -727,6 +727,12 @@
       "name": "FotMob AS",
       "seller_id": "133d033c-8ca8-4177-a781-f1bc565c73ce",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "1weatherapp.com",
+      "name": "Inmobi Pte. Ltd.",
+      "seller_id": "14a0c54c-a9e2-443a-ae5e-fc6cc371fabf",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
