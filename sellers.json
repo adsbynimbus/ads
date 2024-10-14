@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-10-09T20:45:28Z"
+    "last_updated": "2024-10-14T17:58:20Z"
   },
   "identifiers": [
     {
@@ -726,6 +726,12 @@
       "domain": "fotmob.com",
       "name": "FotMob AS",
       "seller_id": "133d033c-8ca8-4177-a781-f1bc565c73ce",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "1weatherapp.com",
+      "name": "Inmobi Pte. Ltd.",
+      "seller_id": "14a0c54c-a9e2-443a-ae5e-fc6cc371fabf",
       "seller_type": "PUBLISHER"
     }
   ],
