@@ -733,6 +733,16 @@
       "name": "Inmobi Pte. Ltd.",
       "seller_id": "14a0c54c-a9e2-443a-ae5e-fc6cc371fabf",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "tinder.com",
+      "name": "Match Group",
+      "seller_id": "2d111c00-341e-4edd-83ad-b771dba3ec8e",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Tinder) is a subsidiary of a larger company, Match Group",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
