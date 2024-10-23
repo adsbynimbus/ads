@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-10-21T16:54:32Z"
+    "last_updated": "2024-10-23T21:59:42Z"
   },
   "identifiers": [
     {
@@ -743,6 +743,12 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "greenshpits.com",
+      "name": "GreenShpits LTD",
+      "seller_id": "1284b947-ec54-4aa0-9fa8-a3d59f7502cf",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
