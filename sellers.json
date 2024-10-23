@@ -743,6 +743,12 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "greenshpits.com",
+      "name": "GreenShpits LTD",
+      "seller_id": "1284b947-ec54-4aa0-9fa8-a3d59f7502cf",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
