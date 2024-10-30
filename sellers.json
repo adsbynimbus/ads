@@ -749,6 +749,12 @@
       "name": "GreenShpits LTD",
       "seller_id": "1284b947-ec54-4aa0-9fa8-a3d59f7502cf",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "pch.com",
+      "name": "Publishers Clearing House LLC",
+      "seller_id": "b731fee7-1e1b-46be-a33b-92f6b2436d3e",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
