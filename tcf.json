@@ -1,0 +1,34 @@
+{
+  "disclosures":
+  [
+    {
+      "cookieRefresh": false,
+      "domains":
+      [
+        "*.adsbynimbus.com"
+      ],
+      "identifier": "Nimbus-Instance-Id",
+      "maxAgeSeconds": null,
+      "purposes":
+      [
+        1
+      ],
+      "type": "app"
+    }
+  ],
+  "domains":
+  [
+    {
+      "domain": "*.adsbynimbus.com",
+      "use": "Ad serving"
+    },
+    {
+      "domain": "candid.adsbynimbus.com",
+      "use": "Ad serving"
+    },
+    {
+      "domain": "turbo.adsbynimbus.com",
+      "use": "Impression tracking"
+    }
+  ]
+}
