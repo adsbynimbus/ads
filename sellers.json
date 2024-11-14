@@ -755,6 +755,12 @@
       "name": "Publishers Clearing House LLC",
       "seller_id": "b731fee7-1e1b-46be-a33b-92f6b2436d3e",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "scopely.com",
+      "name": "GSN Games",
+      "seller_id": "7e05e6de-bada-4b50-b2f5-35c095fe6cd4",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
