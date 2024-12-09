@@ -111,3 +111,6 @@ app-stock.com,358747,RESELLER
 sipo-inc.com, 658147, RESELLER
 triplelift.com, 13043, RESELLER, 6c33edb13117fd86
 adelement.com, 48268, RESELLER
+taurusx.com, 80628, RESELLER
+opera.com, pub12153026866240, RESELLER, 55a0c5fd61378de3
+lemmatechnologies.com, 1623, RESELLER, 7829010c5bebd1fb
