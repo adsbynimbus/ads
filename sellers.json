@@ -761,6 +761,12 @@
       "name": "GSN Games",
       "seller_id": "7e05e6de-bada-4b50-b2f5-35c095fe6cd4",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "deliciousglobal.com.au",
+      "name": "Delicious Global Pty Ltd",
+      "seller_id": "45e83eea-15fa-4de6-aedf-1e38cc577f2a",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
