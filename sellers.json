@@ -2,7 +2,7 @@
   "contact_address": "401 Broadway, Suite 1100, New York, NY, 10013",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2024-12-09T21:43:20Z"
+    "last_updated": "2024-12-23T15:43:48Z"
   },
   "identifiers": [
     {
@@ -766,6 +766,12 @@
       "domain": "deliciousglobal.com.au",
       "name": "Delicious Global Pty Ltd",
       "seller_id": "45e83eea-15fa-4de6-aedf-1e38cc577f2a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "barstoolsports.com",
+      "name": "Barstool Sports",
+      "seller_id": "25f32d42-f5ba-432a-bd78-a777adc04dc8",
       "seller_type": "PUBLISHER"
     }
   ],
