@@ -767,6 +767,12 @@
       "name": "Delicious Global Pty Ltd",
       "seller_id": "45e83eea-15fa-4de6-aedf-1e38cc577f2a",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "barstoolsports.com",
+      "name": "Barstool Sports",
+      "seller_id": "25f32d42-f5ba-432a-bd78-a777adc04dc8",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
