@@ -773,6 +773,12 @@
       "name": "Barstool Sports",
       "seller_id": "25f32d42-f5ba-432a-bd78-a777adc04dc8",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "tapirapps.de",
+      "name": "Tapir Apps GmbH",
+      "seller_id": "064ed60c-0228-4f4c-bdf5-fdf2bcbf3a00",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
