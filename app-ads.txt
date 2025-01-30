@@ -114,3 +114,7 @@ adelement.com, 48268, RESELLER
 taurusx.com, 80628, RESELLER
 opera.com, pub12153026866240, RESELLER, 55a0c5fd61378de3
 lemmatechnologies.com, 1623, RESELLER, 7829010c5bebd1fb
+smartyads.com, 9pbfqffJ24pi7ht7pffe, RESELLER, fd2bde0ff2e62c5d
+singularads.com, 554841, RESELLER
+eskimi.com, 2020000807, RESELLER
+onetag.com, 9243a866f495acf, RESELLER
