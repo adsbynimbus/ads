@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-01-30T21:59:42Z"
+    "last_updated": "2025-02-05T19:48:01Z"
   },
   "identifiers": [
     {
@@ -779,6 +779,116 @@
       "name": "Tapir Apps GmbH",
       "seller_id": "064ed60c-0228-4f4c-bdf5-fdf2bcbf3a00",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "al.com",
+      "name": "AL.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (AL.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "cleveland.com",
+      "name": "Cleveland.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Cleveland.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "lehighvalleylive.com",
+      "name": "Lehighvalleylive.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Lehighvalleylive.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mlive.com",
+      "name": "Mlive.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mlive.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "masslive.com",
+      "name": "Masslive.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Masslive.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "nj.com",
+      "name": "NJ.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NJ.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newyorkupstate.com",
+      "name": "NYup.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NYup.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "oregonlive.com",
+      "name": "Oregonlive.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Oregonlive.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "pennlive.com",
+      "name": "PennLive.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (PennLive.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "silive.com",
+      "name": "SILive.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (SILive.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "syracuse.com",
+      "name": "Syracuse.com",
+      "seller_id": "251bd376-5cf8-4af4-9f8d-92449f1f5e0d",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Syracuse.com) is a subsidiary of a larger company, Advance Local Media LLC",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
