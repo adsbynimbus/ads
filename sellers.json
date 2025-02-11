@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-02-05T19:48:01Z"
+    "last_updated": "2025-02-11T14:56:46Z"
   },
   "identifiers": [
     {
@@ -889,6 +889,12 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "uploads-static.timehop.com/ads/",
+      "name": "Timehop",
+      "seller_id": "94b67e8d-295e-4d2d-b9f0-d114399ec76d",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
