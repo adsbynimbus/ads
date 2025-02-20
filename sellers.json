@@ -901,6 +901,12 @@
       "name": "A Parent Media Co. Inc",
       "seller_id": "6d85de6e-2f27-43ec-a70e-8eee5ae3a9db",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "moonee.io",
+      "name": "(Thunder) Moonee.io",
+      "seller_id": "be714f9e-c789-47df-a4a8-ba02a6558a4e",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
