@@ -907,6 +907,12 @@
       "name": "(Thunder) Moonee.io",
       "seller_id": "be714f9e-c789-47df-a4a8-ba02a6558a4e",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "livescore.com",
+      "name": "Livescore Limited",
+      "seller_id": "f053dc15-c320-4073-9ae1-9a1ce4b796f3",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
