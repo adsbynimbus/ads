@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-03-03T20:09:50Z"
+    "last_updated": "2025-03-04T15:33:20Z"
   },
   "identifiers": [
     {
@@ -912,6 +912,12 @@
       "domain": "livescore.com",
       "name": "Livescore Limited",
       "seller_id": "f053dc15-c320-4073-9ae1-9a1ce4b796f3",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "ginrummyandgames.com",
+      "name": "Gr Gin Rummy And Games Ltd",
+      "seller_id": "05f143cf-c56f-4bc7-b52e-42c094ecd981",
       "seller_type": "PUBLISHER"
     }
   ],
