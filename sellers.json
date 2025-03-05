@@ -919,6 +919,12 @@
       "name": "Gr Gin Rummy And Games Ltd",
       "seller_id": "05f143cf-c56f-4bc7-b52e-42c094ecd981",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "gamovation.com",
+      "name": "GamoVation B.V.",
+      "seller_id": "3a6e50ac-0a9f-4a36-8094-60565efeba3f",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
