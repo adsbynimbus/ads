@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-03-05T22:10:55Z"
+    "last_updated": "2025-03-06T15:30:29Z"
   },
   "identifiers": [
     {
@@ -547,16 +547,6 @@
       "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
       "seller_type": "PUBLISHER",
       "comment": "Publisher (FOX Sports: Watch Live) is a subsidiary of a larger company, Open Web Technologies Ltd",
-      "ext": {
-        "skip": true
-      }
-    },
-    {
-      "domain": "fotmob.com",
-      "name": "Open Web Technologies Ltd",
-      "seller_id": "42d4411a-9f53-4450-bf9a-3caf45244476",
-      "seller_type": "PUBLISHER",
-      "comment": "Publisher (Fotomob) is a subsidiary of a larger company, Open Web Technologies Ltd",
       "ext": {
         "skip": true
       }
