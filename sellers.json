@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-03-06T15:30:29Z"
+    "last_updated": "2025-03-06T20:28:32Z"
   },
   "identifiers": [
     {
@@ -914,6 +914,12 @@
       "domain": "gamovation.com",
       "name": "GamoVation B.V.",
       "seller_id": "3a6e50ac-0a9f-4a36-8094-60565efeba3f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "fbigapps.com",
+      "name": "Fbig Corporation Ltd",
+      "seller_id": "bb0a447a-bbe8-4764-aaea-32aaf61b7362",
       "seller_type": "PUBLISHER"
     }
   ],
