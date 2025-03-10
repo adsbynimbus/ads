@@ -921,6 +921,12 @@
       "name": "Fbig Corporation Ltd",
       "seller_id": "bb0a447a-bbe8-4764-aaea-32aaf61b7362",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "fiogonia.com",
+      "name": "Fiogonia Limited",
+      "seller_id": "7150cee4-9c49-4793-8544-7ba4c4e6ae2d",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
