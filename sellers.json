@@ -927,6 +927,12 @@
       "name": "Fiogonia Limited",
       "seller_id": "7150cee4-9c49-4793-8544-7ba4c4e6ae2d",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "myfitnesspal.com",
+      "name": "MyFitnessPal",
+      "seller_id": "d89d8d2d-d412-4226-944f-6dac8778992f",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
