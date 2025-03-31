@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-03-27T22:11:53Z"
+    "last_updated": "2025-03-31T22:05:20Z"
   },
   "identifiers": [
     {
@@ -932,6 +932,12 @@
       "domain": "myfitnesspal.com",
       "name": "MyFitnessPal",
       "seller_id": "d89d8d2d-d412-4226-944f-6dac8778992f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "kwalee.com",
+      "name": "Kwalee Ltd",
+      "seller_id": "8d926651-5804-4a89-93b5-1b57a4d0375c",
       "seller_type": "PUBLISHER"
     }
   ],
