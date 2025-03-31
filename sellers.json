@@ -933,6 +933,12 @@
       "name": "MyFitnessPal",
       "seller_id": "d89d8d2d-d412-4226-944f-6dac8778992f",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "kwalee.com",
+      "name": "Kwalee Ltd",
+      "seller_id": "8d926651-5804-4a89-93b5-1b57a4d0375c",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
