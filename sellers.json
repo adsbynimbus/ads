@@ -957,6 +957,18 @@
       "name": "Flipboard Inc",
       "seller_id": "0227d59e-2583-4f18-ba98-931e73b02825",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "nighp.com",
+      "name": "Nighp Software",
+      "seller_id": "34f9b33e-7c86-480e-b439-37388ecc82bb",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "pubrev.us",
+      "name": "PubRev+ LLC",
+      "seller_id": "94dd89cd-dee2-4bba-807f-d46fada380cd",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
