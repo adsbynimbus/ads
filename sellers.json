@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-04-16T16:56:09Z"
+    "last_updated": "2025-04-21T16:42:51Z"
   },
   "identifiers": [
     {
@@ -950,6 +950,12 @@
       "domain": "geniustoolslabs.com",
       "name": "Rounds AI Ltd",
       "seller_id": "01c810ed-3828-4981-9f78-7ac9e54a497a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "flipboard.com",
+      "name": "Flipboard Inc",
+      "seller_id": "0227d59e-2583-4f18-ba98-931e73b02825",
       "seller_type": "PUBLISHER"
     }
   ],
