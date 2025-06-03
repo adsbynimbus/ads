@@ -129,3 +129,4 @@ pubmatic.com, 157577, RESELLER, 5d62403b186f2ace
 gannett.com, 23033711203, RESELLER
 emxdgt.com, 2542, DIRECT, 1e1d41537f7cad7f
 conversantmedia.com, 100316, RESELLER, 03113cd04947736d
+improvedigital.com, 2566, RESELLER
