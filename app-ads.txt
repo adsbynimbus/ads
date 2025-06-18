@@ -117,9 +117,16 @@ smaato.com, 1100057444, RESELLER, 07bcf65f187117b4
 rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
 xandr.com, 15840, RESELLER
 consumable.com, 2001622, DIRECT, aefcd3d2f45b5070
-tritondigital.com, 106423, RESELLER, 19b4454d0b87b58b
-rubiconproject.com, 24856, RESELLER
-thisisdax.com, 5329, RESELLER
+pubmatic.com, 156319, RESELLER, 5d62403b186f2ace
+openx.com, 560678323, RESELLER, 6a698e2ec38604c6
+video.unrulymedia.com, 7491264956381456664, RESELLER
 inmobi.com, 2b5cb5884a4248c0af6a3d1faf2e7ab8, RESELLER, 83e75a7ae333ca9d
 yieldmo.com, 3746143199094055132, RESELLER
 nextmillennium.io, 16760, RESELLER, 65bd090fa4a1e3d6
+appnexus.com, 9284, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 17888, RESELLER, 0bfd66d529a55807
+pubmatic.com, 157577, RESELLER, 5d62403b186f2ace
+gannett.com, 23033711203, RESELLER
+emxdgt.com, 2542, DIRECT, 1e1d41537f7cad7f
+conversantmedia.com, 100316, RESELLER, 03113cd04947736d
+improvedigital.com, 2566, RESELLER
