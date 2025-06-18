@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-06-03T18:20:49Z"
+    "last_updated": "2025-06-18T20:55:40Z"
   },
   "identifiers": [
     {
@@ -981,6 +981,2406 @@
       "name": "M&M Media, Inc.",
       "seller_id": "95e6a849-0886-4fda-aaec-4a87bd102b2c",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "radiotexaslive.com",
+      "name": "Radio Texas Live",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Radio Texas Live) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "nj1015.com",
+      "name": "NJ 101.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NJ 101.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wgrd.com",
+      "name": "WGRD",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WGRD) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wblm.com",
+      "name": "tsm-wblm",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (tsm-wblm) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "www.newstalk.com",
+      "name": "NewsTalk",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NewsTalk) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wjon.com",
+      "name": "WJON",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WJON) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "klaq.com",
+      "name": "KLAQ",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KLAQ) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kicks105.com",
+      "name": "KICKS 105",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KICKS 105) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wyrk.com",
+      "name": "106.5 WYRK",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (106.5 WYRK) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wblk.com",
+      "name": "Buffalos 937 WBLK -The Peoples Station",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Buffalos 937 WBLK -The Peoples Station) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "k2radio.com",
+      "name": "K2",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (K2) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wpdh.com",
+      "name": "101.5 WPDH",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (101.5 WPDH) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "973kkrc.com",
+      "name": "97.3 KKRC",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (97.3 KKRC) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "973thedawg.com",
+      "name": "The Dawg 973",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Dawg 973) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "knue.com",
+      "name": "KNUE 1015 East Texas Country Station",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KNUE 1015 East Texas Country Station) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "thebeet.com",
+      "name": "The Beet",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Beet) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "highway989.com",
+      "name": "Highway 98.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Highway 98.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newstalkkit.com",
+      "name": "News Talk KIT",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (News Talk KIT) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "thegame730am.com",
+      "name": "The Game 730 AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Game 730 AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "99wfmk.com",
+      "name": "99.1 WFMK",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (99.1 WFMK) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "minnesotasnewcountry.com",
+      "name": "981 Minnesotas New Country",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (981 Minnesotas New Country) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "97x.com",
+      "name": "97X",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (97X) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "khak.com",
+      "name": "KHAK 981",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KHAK 981) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kfmx.com",
+      "name": "FMX 945",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (FMX 945) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wgna.com",
+      "name": "GNA",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (GNA) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hudsonvalleypost.com",
+      "name": "Hudson Valley Post",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Hudson Valley Post) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "929jackfm.com",
+      "name": "92.9 Jack FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (92.9 Jack FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "b100quadcities.com",
+      "name": "b100 quadcities",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (b100 quadcities) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wpst.com",
+      "name": "94.5 PST",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.5 PST) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "catcountry1073.com",
+      "name": "Cat Country 1073",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Cat Country 1073) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kpel965.com",
+      "name": "KPEL 965",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KPEL 965) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wbsm.com",
+      "name": "1420 WBSM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (1420 WBSM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "999ktdy.com",
+      "name": "999 KTDY",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (999 KTDY) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wakeupwyo.com",
+      "name": "Wake Up Wyoming",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Wake Up Wyoming) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "fun107.com",
+      "name": "FUN 107",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (FUN 107) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newstalk870.am",
+      "name": "Newstalk 870 AM Radio",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Newstalk 870 AM Radio) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "943thepoint.com",
+      "name": "94.3 The Point",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.3 The Point) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "i95rocks.com",
+      "name": "I-95 Rocks",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (I-95 Rocks) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "tuscaloosathread.com",
+      "name": "Tuscaloosa Thread",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Tuscaloosa Thread) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wobm.com",
+      "name": "92.7 WOBM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (92.7 WOBM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kroc.com",
+      "name": "KROC",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KROC) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wokq.com",
+      "name": "975 WOKQ",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (975 WOKQ) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "xlcountry.com",
+      "name": "XL Country 100.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (XL Country 100.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wrkr.com",
+      "name": "107.7 RKR The Rocker",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (107.7 RKR The Rocker) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kgab.com",
+      "name": "KGABAM650",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KGABAM650) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1027kord.com",
+      "name": "102.7 KORD",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (102.7 KORD) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "97zokonline.com",
+      "name": "WZOK 975",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WZOK 975) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "92moose.fm",
+      "name": "92 Moose Mobile",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (92 Moose Mobile) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "710keel.com",
+      "name": "News Radio 710 KEEL",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (News Radio 710 KEEL) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1440wrok.com",
+      "name": "Newstalk 1440 WROK",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Newstalk 1440 WROK) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1079ishot.com",
+      "name": "Hot 1079",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Hot 1079) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "shoresportsnetwork.com",
+      "name": "Shore Sports Network",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Shore Sports Network) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kezj.com",
+      "name": "957 KEZJ",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (957 KEZJ) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix931fm.com",
+      "name": "Mix 931",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 931) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "q1065.fm",
+      "name": "Q1065",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Q1065) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wfgr.com",
+      "name": "987 WFGR",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (987 WFGR) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "banana1015.com",
+      "name": "Banana 1015",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Banana 1015) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kfyo.com",
+      "name": "95.1 & 790 KFYO",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (95.1 & 790 KFYO) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wkdq.com",
+      "name": "WKDQ 995",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WKDQ 995) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1073kissfmtexas.com",
+      "name": "107.3 KISS-FM Texas",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (107.3 KISS-FM Texas) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kiik1049.com",
+      "name": "KIIK 104.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KIIK 104.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mycountry955.com",
+      "name": "My Country 95.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (My Country 95.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "b985.fm",
+      "name": "B98.5 Mobile",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (B98.5 Mobile) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wpgtalkradio.com",
+      "name": "WPG Talk Radio 104.1 FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WPG Talk Radio 104.1 FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wcrz.com",
+      "name": "Cars 108",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Cars 108) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wbkr.com",
+      "name": "WBKR",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WBKR) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "bigfrog104.com",
+      "name": "BIG FROG 104",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (BIG FROG 104) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kixs.com",
+      "name": "KIXS 108-The Country Leader in South Texas",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KIXS 108-The Country Leader in South Texas) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mykiss1031.com",
+      "name": "MyKISS1031",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (MyKISS1031) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "witl.com",
+      "name": "100.7 WITL",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (100.7 WITL) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "classicrock961.com",
+      "name": "Classic Rock 96.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Classic Rock 96.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wnbf.com",
+      "name": "WNBF News Radio 1290",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WNBF News Radio 1290) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mykisscountry937.com",
+      "name": "KISS COUNTRY 937",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KISS COUNTRY 937) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newstalk1280.com",
+      "name": "Newstalk 1280 WGBF-AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Newstalk 1280 WGBF-AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "tasteofcountry.com",
+      "name": "Taste of Country",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Taste of Country) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "949whom.com",
+      "name": "94.9 HOM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.9 HOM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newcountry991.com",
+      "name": "New Country 99.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (New Country 99.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "literock969.com",
+      "name": "Lite Rock 96.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Lite Rock 96.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1045theteam.com",
+      "name": "104.5 The Team",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (104.5 The Team) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "981thehawk.com",
+      "name": "981 The Hawk",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (981 The Hawk) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hot991.com",
+      "name": "Hot 99.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Hot 99.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "953thebear.com",
+      "name": "953 the Bear",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (953 the Bear) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wtug.com",
+      "name": "92.9 WTUG",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (92.9 WTUG) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "q985online.com",
+      "name": "Q985",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Q985) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1033uscountry.com",
+      "name": "103.3 US Country",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.3 US Country) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "river967.com",
+      "name": "River 96.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (River 96.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "classicrock1051.com",
+      "name": "Classic Rock 105.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Classic Rock 105.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "foxsports1510.com",
+      "name": "Fox Sports 1510AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Fox Sports 1510AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "rivergrandrapids.com",
+      "name": "100.5 The River",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (100.5 The River) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "gator995.com",
+      "name": "Gator 995",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Gator 995) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kekbfm.com",
+      "name": "999 KEKB",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (999 KEKB) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kffm.com",
+      "name": "107.3 KFFM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (107.3 KFFM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "b105country.com",
+      "name": "B105",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (B105) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newsradio1310.com",
+      "name": "Newsradio 1310 KLIX",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Newsradio 1310 KLIX) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kisselpaso.com",
+      "name": "931 KISS FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (931 KISS FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "973espn.com",
+      "name": "97.3 ESPN South Jersey",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (97.3 ESPN South Jersey) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "sojo1049.com",
+      "name": "SoJo 104.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (SoJo 104.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wibx950.com",
+      "name": "WIBX 950",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WIBX 950) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "awesome98.com",
+      "name": "Awesome 98",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Awesome 98) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1023thebullfm.com",
+      "name": "102.3 The Bull",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (102.3 The Bull) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "975kissfm.com",
+      "name": "Hot 97.5 Online",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Hot 97.5 Online) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "103kkcn.com",
+      "name": "Kickin' Country 103.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Kickin' Country 103.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kyssfm.com",
+      "name": "KYSS 949",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KYSS 949) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kidotalkradio.com",
+      "name": "KIDO Talk Radio",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KIDO Talk Radio) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "cool987fm.com",
+      "name": "Cool 98.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Cool 98.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wjbq.com",
+      "name": "Q 979",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Q 979) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newstalk955.com",
+      "name": "NewsTalk 95.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NewsTalk 95.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "keanradio.com",
+      "name": "KEAN 105",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KEAN 105) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newstalkkgvo.com",
+      "name": "KGVO",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KGVO) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "irock935.com",
+      "name": "I-Rock 93.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (I-Rock 93.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1039thebreezealbany.com",
+      "name": "103.9 The Breeze",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.9 The Breeze) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wcyy.com",
+      "name": "WCYY",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WCYY) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "krocnews.com",
+      "name": "1340 KROC-AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (1340 KROC-AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "squatchrocks.com",
+      "name": "Sasquatch 106.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Sasquatch 106.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kkam.com",
+      "name": "Talk 1340",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Talk 1340) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kicks1055.com",
+      "name": "Kicks 105.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Kicks 105.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "lonestar995fm.com",
+      "name": "Lonestar 99.5 FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Lonestar 99.5 FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "bigcountry969.com",
+      "name": "Big Country 96.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Big Country 96.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "q1057.com",
+      "name": "Q105.7 - Albany's Rock Station",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Q105.7 - Albany's Rock Station) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "929thebull.com",
+      "name": "92.9 The Bull",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (92.9 The Bull) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wkmi.com",
+      "name": "WKMI",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WKMI) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "quickcountry.com",
+      "name": "Quick Country 96.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Quick Country 96.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "k985.com",
+      "name": "K 98.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (K 98.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "961thebreeze.com",
+      "name": "The Breeze 96.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Breeze 96.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wyopreps.com",
+      "name": "WyoPreps",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WyoPreps) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mybeachradio.com",
+      "name": "My Beach Radio",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (My Beach Radio) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "967theeagle.net",
+      "name": "96.7 The Eagle",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (96.7 The Eagle) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "us105fm.com",
+      "name": "US105 FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (US105 FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wjimam.com",
+      "name": "1240 WJIM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (1240 WJIM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1051theblock.com",
+      "name": "105.1 The Block",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (105.1 The Block) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "943litefm.com",
+      "name": "94.3 Lite FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.3 Lite FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "krock1017fm.com",
+      "name": "K1017 Central Texas",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (K1017 Central Texas) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kool1017.com",
+      "name": "KOOL 101.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KOOL 101.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "929nin.com",
+      "name": "NIN 929",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (NIN 929) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wupe.com",
+      "name": "WUPE",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WUPE) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1037theloon.com",
+      "name": "103.7 The Loon",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.7 The Loon) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wrrv.com",
+      "name": "WRRV",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WRRV) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1035kissfmboise.com",
+      "name": "103.5 KISSFM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.5 KISSFM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "praise933.com",
+      "name": "Praise 93.3",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Praise 93.3) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix108.com",
+      "name": "MIX 108",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (MIX 108) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "myb106.com",
+      "name": "MyB106",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (MyB106) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mymajic933.com",
+      "name": "My Magic 93.3",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (My Magic 93.3) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "991thewhale.com",
+      "name": "991 The Whale",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (991 The Whale) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "963theblaze.com",
+      "name": "The Blaze 963",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Blaze 963) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "fun1043.com",
+      "name": "Fun 104.3",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Fun 104.3) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hot1047.com",
+      "name": "HOT 104.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (HOT 104.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wour.com",
+      "name": "96.9 WOUR",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (96.9 WOUR) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "espn1420.com",
+      "name": "ESPN 1420",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (ESPN 1420) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1360binghamton.com",
+      "name": "CBS Sports Radio 1360 AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (CBS Sports Radio 1360 AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix106radio.com",
+      "name": "Mix 106",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 106) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "krna.com",
+      "name": "KRNA Classic Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KRNA Classic Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kikn.com",
+      "name": "Kickin' Country",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Kickin' Country) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kmmsam.com",
+      "name": "AM 1450 KMMS",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (AM 1450 KMMS) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "b93.net",
+      "name": "B93",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (B93) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "979kickfm.com",
+      "name": "97.9 KICK-FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (97.9 KICK-FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "thebullamarillo.com",
+      "name": "101.9 The Bull",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (101.9 The Bull) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "us103.com",
+      "name": "US 1031 Lapeers Ultimate Classic Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (US 1031 Lapeers Ultimate Classic Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "shark1053.com",
+      "name": "102.1 & 105.3 The Shark",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (102.1 & 105.3 The Shark) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "live959.com",
+      "name": "Live 95.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Live 95.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kdat.com",
+      "name": "104.5 KDAT",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (104.5 KDAT) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "95rockfm.com",
+      "name": "95 Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (95 Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "retro1025.com",
+      "name": "Retro 102.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Retro 102.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wdea.am",
+      "name": "WDEA AM 1370",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WDEA AM 1370) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix949.com",
+      "name": "Mix 94.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 94.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wmmq.com",
+      "name": "94.9 WMMQ",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.9 WMMQ) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "103wjod.com",
+      "name": "WJOD",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WJOD) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "97rockonline.com",
+      "name": "97 Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (97 Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "b1027.com",
+      "name": "B102.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (B102.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "lonestar92.com",
+      "name": "LoneStar 92",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (LoneStar 92) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kxkx.com",
+      "name": "KIX 105",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KIX 105) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1025kiss.com",
+      "name": "102.5 Kiss FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (102.5 Kiss FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1043wowcountry.com",
+      "name": "WOW Country",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WOW Country) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "q985.fm",
+      "name": "Q 92.3",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Q 92.3) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "ksisradio.com",
+      "name": "KSIS",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KSIS) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1470kyyw.com",
+      "name": "Abilene's News/Talk 1470 KYYW",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Abilene's News/Talk 1470 KYYW) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kkyr.com",
+      "name": "Kicker 102.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Kicker 102.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mymagicgr.com",
+      "name": "My Magic GR",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (My Magic GR) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "lite987.com",
+      "name": "LITE 987",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (LITE 987) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix925abilene.com",
+      "name": "Mix 92.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 92.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "y101radio.com",
+      "name": "Y101",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Y101) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "999thepoint.com",
+      "name": "99.9 the Point",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (99.9 the Point) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kxrb.com",
+      "name": "KXRB",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KXRB) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kygl.com",
+      "name": "Eagle 106.3",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Eagle 106.3) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "975now.com",
+      "name": "975 Now FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (975 Now FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix979fm.com",
+      "name": "Mix 97.9 FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 97.9 FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "929thelake.com",
+      "name": "92.9 The Lake",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (92.9 The Lake) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "krod.com",
+      "name": "600 ESPN El Paso",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (600 ESPN El Paso) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kdhlradio.com",
+      "name": "KDHL 920AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KDHL 920AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "y105fm.com",
+      "name": "Y-105FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Y-105FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "z1073.com",
+      "name": "Z1073",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Z1073) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "bozemanskissfm.com",
+      "name": "Bozeman's KISS FM 96.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Bozeman's KISS FM 96.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "z94.com",
+      "name": "Z94",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Z94) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "103gbfrocks.com",
+      "name": "103GBF",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103GBF) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1130thetiger.com",
+      "name": "The Tiger Sports App",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Tiger Sports App) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "965thefox.com",
+      "name": "96.5 The Fox",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (96.5 The Fox) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix941kmxj.com",
+      "name": "Mix 94.1 Amarillo",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 94.1 Amarillo) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "my1053wjlt.com",
+      "name": "105.3 WJLT",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (105.3 WJLT) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kcrr.com",
+      "name": "KCRR",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KCRR) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "961theeagle.com",
+      "name": "961 The Eagle",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (961 The Eagle) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "alt1017.com",
+      "name": "ALT 101.7",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (ALT 101.7) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "liteonline.com",
+      "name": "107.9 LITE-FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (107.9 LITE-FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kingfm.com",
+      "name": "101.9 KING-FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (101.9 KING-FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1063thebuzz.com",
+      "name": "106.3 The Buzz",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (106.3 The Buzz) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "k1025.com",
+      "name": "K1025",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (K1025) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "lonestar1280.com",
+      "name": "KSLI 1280",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KSLI 1280) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1037thepeak.com",
+      "name": "103.7 The Peak",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.7 The Peak) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "965kvki.com",
+      "name": "96.5 KVKI App",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (96.5 KVKI App) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mix1043fm.com",
+      "name": "Mix 104.3 Today's Best Mix",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mix 104.3 Today's Best Mix) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kmhk.com",
+      "name": "103.7 The Hawk",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.7 The Hawk) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "klaw.com",
+      "name": "KLAW 101",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KLAW 101) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "rock1041.com",
+      "name": "Rock 104.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Rock 104.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "keyw.com",
+      "name": "98.3 The Key",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (98.3 The Key) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "power96radio.com",
+      "name": "Power 96 Faribault's 95.9FM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Power 96 Faribault's 95.9FM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kfilradio.com",
+      "name": "103.1 KFIL",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (103.1 KFIL) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kool1079.com",
+      "name": "Kool 107.9 Western Colorado's Greatest Hits",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Kool 107.9 Western Colorado's Greatest Hits) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1061evansville.com",
+      "name": "106.1 KISSFM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (106.1 KISSFM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "y95country.com",
+      "name": "Y95Country",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Y95Country) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kbat.com",
+      "name": "KBAT 99.9 - The Basin's Real Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KBAT 99.9 - The Basin's Real Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "975kgkl.com",
+      "name": "97.5 KGKL",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (97.5 KGKL) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wzozfm.com",
+      "name": "WZOZ 103.1",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WZOZ 103.1) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kisscasper.com",
+      "name": "104.7 KISS Casper",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (104.7 KISS Casper) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "alternativemissoula.com",
+      "name": "Alternative Missoula - Alt 1015",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Alternative Missoula - Alt 1015) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "107jamz.com",
+      "name": "107 JAMZ",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (107 JAMZ) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mooseradio.com",
+      "name": "94.7 Moose Radio",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.7 Moose Radio) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "920thejersey.com",
+      "name": "920 The Jersey",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (920 The Jersey) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "krforadio.com",
+      "name": "KRFO AM 1390",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KRFO AM 1390) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "theboot.com",
+      "name": "The Boot",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Boot) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "katsfm.com",
+      "name": "94.5 KATS",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.5 KATS) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "wsbs.com",
+      "name": "WSBS 860AM",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (WSBS 860AM) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "kowb1290.com",
+      "name": "KOWB-AM 1290",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KOWB-AM 1290) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "ktemnews.com",
+      "name": "KTEM News",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (KTEM News) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "club937.com",
+      "name": "Club 937",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Club 937) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "1019therock.com",
+      "name": "101.9 The Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (101.9 The Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "k945.com",
+      "name": "K945 The Hit Music Channel",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (K945 The Hit Music Channel) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "keyj.com",
+      "name": "Rock 108",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Rock 108) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "983thesnake.com",
+      "name": "98.3 The Snake",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (98.3 The Snake) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "therockofrochester.com",
+      "name": "Z-Rock",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Z-Rock) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "my1035.com",
+      "name": "MY 103.5",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (MY 103.5) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "943thex.com",
+      "name": "94.3 The X",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (94.3 The X) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "power959.com",
+      "name": "Power 95.9",
+      "seller_id": "79691271-29b0-4a2e-a9bb-d5761e47c757",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Power 95.9) is a subsidiary of a larger company, Town Square Media",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
