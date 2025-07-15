@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-07-11T19:33:27Z"
+    "last_updated": "2025-07-15T14:37:10Z"
   },
   "identifiers": [
     {
@@ -750,6 +750,12 @@
       "domain": "scopely.com",
       "name": "GSN Games",
       "seller_id": "7e05e6de-bada-4b50-b2f5-35c095fe6cd4",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "scopely.com",
+      "name": "Scopely",
+      "seller_id": "579aca46-17bc-4cd1-8e30-2ab5fa75b874",
       "seller_type": "PUBLISHER"
     },
     {
