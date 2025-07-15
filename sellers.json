@@ -753,6 +753,12 @@
       "seller_type": "PUBLISHER"
     },
     {
+      "domain": "scopely.com",
+      "name": "Scopely",
+      "seller_id": "579aca46-17bc-4cd1-8e30-2ab5fa75b874",
+      "seller_type": "PUBLISHER"
+    },
+    {
       "domain": "deliciousglobal.com.au",
       "name": "Delicious Global Pty Ltd",
       "seller_id": "45e83eea-15fa-4de6-aedf-1e38cc577f2a",
