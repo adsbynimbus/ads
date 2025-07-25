@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-07-15T14:37:10Z"
+    "last_updated": "2025-07-25T14:29:51Z"
   },
   "identifiers": [
     {
@@ -3392,6 +3392,12 @@
       "domain": "metropcs.mobi",
       "name": "UNITY TECHNOLOGIES SF",
       "seller_id": "ceb0bdb8-cf4e-49eb-af63-d9183d1313be",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "gadsme.com",
+      "name": "Gadsme",
+      "seller_id": "ce63f14d-eae4-4c6d-bc7e-480e02c86bc3",
       "seller_type": "PUBLISHER"
     }
   ],
