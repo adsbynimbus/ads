@@ -3399,6 +3399,36 @@
       "name": "Gadsme",
       "seller_id": "ce63f14d-eae4-4c6d-bc7e-480e02c86bc3",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "loseit.com",
+      "name": "Lose It!",
+      "seller_id": "637b4903-b2ca-4e40-bacb-c8e5e5de4909",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Lose It!) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "whattoexpect.com",
+      "name": "BabyCenter",
+      "seller_id": "637b4903-b2ca-4e40-bacb-c8e5e5de4909",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (BabyCenter) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "babycenter.com",
+      "name": "BabyCenter",
+      "seller_id": "637b4903-b2ca-4e40-bacb-c8e5e5de4909",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (BabyCenter) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
