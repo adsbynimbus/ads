@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-07-29T16:32:35Z"
+    "last_updated": "2025-08-21T18:00:12Z"
   },
   "identifiers": [
     {
@@ -3412,10 +3412,10 @@
     },
     {
       "domain": "whattoexpect.com",
-      "name": "BabyCenter",
+      "name": "What to Expect",
       "seller_id": "637b4903-b2ca-4e40-bacb-c8e5e5de4909",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (BabyCenter) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (What to Expect) is a subsidiary of a larger company, Everyday Health Media, LLC.",
       "ext": {
         "skip": true
       }
@@ -3426,6 +3426,46 @@
       "seller_id": "637b4903-b2ca-4e40-bacb-c8e5e5de4909",
       "seller_type": "PUBLISHER",
       "comment": "Publisher (BabyCenter) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mapmyride.com",
+      "name": "Map My Ride",
+      "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Map My Ride) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mapmyrun.com",
+      "name": "Map My Run",
+      "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Map My Run) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mapmywalk.com",
+      "name": "Map My Walk",
+      "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Map My Walk) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "mapmyfitness.com",
+      "name": "Map My Fitness",
+      "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Map My Fitness) is a subsidiary of a larger company, Everyday Health Media, LLC.",
       "ext": {
         "skip": true
       }
