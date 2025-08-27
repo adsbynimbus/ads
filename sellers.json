@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-08-21T18:00:12Z"
+    "last_updated": "2025-08-27T15:50:08Z"
   },
   "identifiers": [
     {
@@ -492,6 +492,15 @@
       "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
       "seller_type": "PUBLISHER",
       "comment": "Publisher (Spanish Dictionary) is a subsidiary of a larger company, Curiosity Media",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "dictionary.com",
+      "name": "Dictionary Media Group, Inc",
+      "seller_id": "300dc0a5-8eca-46fa-b88a-f0bc52b3a09a",
+      "seller_type": "PUBLISHER",
       "ext": {
         "skip": true
       }
