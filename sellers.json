@@ -3478,6 +3478,76 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "indixital.com",
+      "name": "Tic Tac Toe Battle",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "softnoesis.com",
+      "name": "Tic Tac Toe - Noughts and cros",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "skyvideostatus.com",
+      "name": "Video Staus Maker & Download",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "newcrowngames.blogspot",
+      "name": "Escape Granny Puzzle Simulator",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hdvideoplayerallformat16.blogspot",
+      "name": "HD Video Player All Format",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "cashloanemiloancalculator134.blogspot",
+      "name": "All Movie & Video Downloader",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "starbyteinfotech.com",
+      "name": "QR Code Scanner - Barcode Scan",
+      "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
