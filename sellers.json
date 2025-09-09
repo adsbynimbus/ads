@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-09-03T19:41:52Z"
+    "last_updated": "2025-09-09T16:35:02Z"
   },
   "identifiers": [
     {
@@ -3444,7 +3444,7 @@
       "name": "Map My Ride",
       "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Map My Ride) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Map My Ride) is a subsidiary of a larger company, Outside Interactive, Inc.",
       "ext": {
         "skip": true
       }
@@ -3454,7 +3454,7 @@
       "name": "Map My Run",
       "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Map My Run) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Map My Run) is a subsidiary of a larger company, Outside Interactive, Inc.",
       "ext": {
         "skip": true
       }
@@ -3464,7 +3464,7 @@
       "name": "Map My Walk",
       "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Map My Walk) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Map My Walk) is a subsidiary of a larger company, Outside Interactive, Inc.",
       "ext": {
         "skip": true
       }
@@ -3474,7 +3474,7 @@
       "name": "Map My Fitness",
       "seller_id": "7dcc543f-4002-40fa-96d9-256610ab2219",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Map My Fitness) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Map My Fitness) is a subsidiary of a larger company, Outside Interactive, Inc.",
       "ext": {
         "skip": true
       }
@@ -3484,7 +3484,7 @@
       "name": "Tic Tac Toe Battle",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
@@ -3494,17 +3494,17 @@
       "name": "Tic Tac Toe - Noughts and cros",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
     },
     {
       "domain": "skyvideostatus.com",
-      "name": "Video Staus Maker & Download",
+      "name": "Video Status Maker & Download",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
@@ -3514,7 +3514,7 @@
       "name": "Escape Granny Puzzle Simulator",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
@@ -3524,7 +3524,7 @@
       "name": "HD Video Player All Format",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
@@ -3534,7 +3534,7 @@
       "name": "All Movie & Video Downloader",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
@@ -3544,7 +3544,7 @@
       "name": "QR Code Scanner - Barcode Scan",
       "seller_id": "9e87f9dd-08e3-498e-917e-f3fbe2294176",
       "seller_type": "PUBLISHER",
-      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Everyday Health Media, LLC.",
+      "comment": "Publisher (Yieldmonk Technologies LLC) is a subsidiary of a larger company, Yieldmonk Technologies, LLC.",
       "ext": {
         "skip": true
       }
