@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-09-09T16:35:02Z"
+    "last_updated": "2025-09-25T20:11:05Z"
   },
   "identifiers": [
     {
@@ -3548,6 +3548,12 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "steprewards.app",
+      "name": "Elite Mobile Games LLC",
+      "seller_id": "7ba86914-5325-4ebe-970b-c521ebc06941",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
