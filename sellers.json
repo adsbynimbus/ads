@@ -3548,6 +3548,12 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "steprewards.app",
+      "name": "Elite Mobile Games LLC",
+      "seller_id": "7ba86914-5325-4ebe-970b-c521ebc06941",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
