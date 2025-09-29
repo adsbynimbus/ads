@@ -1,38 +1,48 @@
 name: Sellers.json validation
+
 on:
   push:
-    branches:
-    - main
+    # Run on pushes to any branch EXCEPT main (so merge pushes to main are ignored)
+    branches-ignore:
+      - main
+    paths:
+      - "sellers.json"
   pull_request:
+    # Still run for PRs targeting main (validate before merge)
     branches:
-    - main
+      - main
+    paths:
+      - "sellers.json"
 
 jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          ref: ${{ github.head_ref }}
           path: ads
 
-      - name: Validate JSON
+      - name: Validate sellers.json syntax
         id: json-validate
         working-directory: ads
         run: |
+          echo "Validating sellers.json..."
           cat sellers.json | jq -e
 
-      - name: Update JSON Timestamp
+      - name: Update JSON timestamp
         id: json-timestamp
         working-directory: ads
         run: |
+          echo "Updating .ext.last_updated field..."
           cat sellers.json | jq '.ext.last_updated = (now | todate)' | tee sellers.json
 
-      - name: Push Changes to PR
+      - name: Push changes (if updated)
         working-directory: ads
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
-          git commit -am "Update sellers.json timestamp"
+          git commit -am "Update sellers.json timestamp" || echo "No changes to commit"
           git push
