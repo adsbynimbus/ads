@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-10-14T15:04:48Z"
+    "last_updated": "2025-10-14T15:07:33Z"
   },
   "identifiers": [
     {
@@ -3565,6 +3565,12 @@
       "domain": "people.com",
       "name": "Dotdash Meredith, Inc.",
       "seller_id": "e08a2f0d-061f-41a5-a273-b70c5892c29e",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "tvguide.com",
+      "name": "Fandom Inc.",
+      "seller_id": "f133ddeb-c681-4366-bfae-b44315e422e7",
       "seller_type": "PUBLISHER"
     }
   ],
