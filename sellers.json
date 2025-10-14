@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-09-26T17:34:51Z"
+    "last_updated": "2025-10-14T15:04:48Z"
   },
   "identifiers": [
     {
@@ -3559,6 +3559,12 @@
       "domain": "salemmedia.com",
       "name": "Salem Media Group",
       "seller_id": "fb3f0eda-fac9-4765-921f-89e6a5183f89",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "people.com",
+      "name": "Dotdash Meredith, Inc.",
+      "seller_id": "e08a2f0d-061f-41a5-a273-b70c5892c29e",
       "seller_type": "PUBLISHER"
     }
   ],
