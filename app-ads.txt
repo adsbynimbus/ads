@@ -138,3 +138,4 @@ pubmatic.com, 163091, RESELLER, 5d62403b186f2ace
 pubnative.net, 1016724, RESELLER, d641df8625486a7b
 bidease.com, bidease_seller_53, RESELLER
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
+nativo.com, 6054, RESELLER, 59521ca7cc5e9fee
