@@ -3572,6 +3572,26 @@
       "name": "Fandom Inc.",
       "seller_id": "f133ddeb-c681-4366-bfae-b44315e422e7",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "washingtonpost.com",
+      "name": "Washington Post: Live News",
+      "seller_id": "9381145f-8ee6-44bc-817e-e82fce9021a2",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Washington Post: Live News is a subsidiary of a larger company, Tradecraft LLC dba Media Tradecraft",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "theatlantic.com",
+      "name": "The Atlantic",
+      "seller_id": "9381145f-8ee6-44bc-817e-e82fce9021a2",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (The Atlantic is a subsidiary of a larger company, Tradecraft LLC dba Media Tradecraft",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
