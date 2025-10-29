@@ -3592,6 +3592,16 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "san.com",
+      "name": "Straight Arrow News | SAN",
+      "seller_id": "9381145f-8ee6-44bc-817e-e82fce9021a2",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Straight Arrow News | SAN is a subsidiary of a larger company, Tradecraft LLC dba Media Tradecraft",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
