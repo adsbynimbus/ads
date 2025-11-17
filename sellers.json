@@ -989,7 +989,10 @@
       "domain": "hungrystudio.com",
       "name": "(Thunder) Hungry Studios",
       "seller_id": "b34c227c-540f-421b-96f1-612c916feac2",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "trebel.io",
