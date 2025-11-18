@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2025-11-17T18:51:40Z"
+    "last_updated": "2025-11-18T18:03:33Z"
   },
   "identifiers": [
     {
@@ -406,7 +406,10 @@
       "domain": "impalastudios.com",
       "name": "Sofa IT d.o.o.",
       "seller_id": "b4ef4de2-a714-46b8-b00d-513fb5c2c213",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "themeetgroup.com",
