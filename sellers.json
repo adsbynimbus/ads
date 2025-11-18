@@ -406,7 +406,10 @@
       "domain": "impalastudios.com",
       "name": "Sofa IT d.o.o.",
       "seller_id": "b4ef4de2-a714-46b8-b00d-513fb5c2c213",
-      "seller_type": "PUBLISHER"
+      "seller_type": "PUBLISHER",
+      "ext": {
+        "skip": true
+      }
     },
     {
       "domain": "themeetgroup.com",
