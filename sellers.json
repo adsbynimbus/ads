@@ -3608,6 +3608,13 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "maxpreps.com",
+      "name": "MaxPreps",
+      "seller_id": "a01fe17b-0e3b-4144-a767-e03d27035af0",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (MaxPreps) is a subsidiary of a larger company, CBSi"
     }
   ],
   "version": 1
