@@ -130,4 +130,4 @@ visiblemeasures.com, 2008VM, RESELLER
 bigo.sg, 884, RESELLER
 pubmatic.com, 161151, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
-
+pangleglobal.com, 5034579, RESELLER
