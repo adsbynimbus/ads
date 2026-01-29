@@ -3615,6 +3615,18 @@
       "seller_id": "a01fe17b-0e3b-4144-a767-e03d27035af0",
       "seller_type": "PUBLISHER",
       "comment": "Publisher (MaxPreps) is a subsidiary of a larger company, CBSi"
+    },
+    {
+      "domain": "quizlet.com",
+      "name": "Quizlet Inc.",
+      "seller_id": "bd0073a1-c236-4109-a2d2-1a0eec1e8898",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "wesh.com",
+      "name": "Hearst Newspapers",
+      "seller_id": "468f5376-cb82-448a-a066-01ef197bbb0e",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
