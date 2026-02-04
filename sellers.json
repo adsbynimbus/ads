@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2026-01-29T15:10:00Z"
+    "last_updated": "2026-02-04T17:59:11Z"
   },
   "identifiers": [
     {
@@ -3629,13 +3629,13 @@
       "seller_type": "PUBLISHER"
     },
     {
-      "domain":"paramount.com",
+      "domain": "paramount.com",
       "name": "CBSi",
       "seller_id": "a01fe17b-0e3b-4144-a767-e03d27035af0",
       "seller_type": "PUBLISHER"
     },
     {
-      "domain":"wordfinder.yourdictionary.com",
+      "domain": "wordfinder.yourdictionary.com",
       "name": "Lovetoknow Media",
       "seller_id": "62f109fa-7c23-4ace-b7c1-6261dc7d3318",
       "seller_type": "PUBLISHER"
