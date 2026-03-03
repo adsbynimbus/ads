@@ -37,8 +37,6 @@ mars.media, 1084828, RESELLER, 8624339f102fb076
 admanmedia.com, 2151, RESELLER
 startapp.com, 143265457, RESELLER
 start.io, 143265457, RESELLER
-dauup.com, 35120, RESELLER
-peak226.com, 20120, RESELLER
 vidoomy.com, 2704434, RESELLER
 adform.com, 2742, RESELLER
 instreamatic.com, 78, RESELLER
@@ -129,3 +127,4 @@ pangleglobal.com, 5034579, RESELLER
 axonix.com, 59236, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33191, RESELLER
 playdigo.com, 1990, RESELLER, 92011346d63d3c30
+anzu.io, 69a43b1ce7eb8625463abecb,RESELLER
