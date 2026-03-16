@@ -1,6 +1,7 @@
 adsbynimbus.com, [PublisherSellerID], DIRECT, dd263a8a859bd0e0
 media.net, 8CUQC3000, RESELLER
 sharethrough.com, Vlox9WTu, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 4881, DIRECT, d53b998a7bd4ecd2
 pubmatic.com, 156557, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 18694, RESELLER, 0bfd66d529a55807
 openx.com, 540274407, RESELLER, 6a698e2ec38604c6
@@ -128,3 +129,6 @@ axonix.com, 59236, RESELLER
 mobupps.com, c74d97b01eae257e44aa9d5bade97baf33191, RESELLER
 playdigo.com, 1990, RESELLER, 92011346d63d3c30
 anzu.io, 69a43b1ce7eb8625463abecb,RESELLER
+appnexus.com,12616,RESELLER,f5ab79cb980f11d1
+triplelift.com, 14709, RESELLER, 6c33edb13117fd86
+rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
