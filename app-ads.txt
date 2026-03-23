@@ -132,3 +132,8 @@ anzu.io, 69a43b1ce7eb8625463abecb,RESELLER
 appnexus.com,12616,RESELLER,f5ab79cb980f11d1
 triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+kargo.com, 9132, RESELLER
+rubiconproject.com, 11864, RESELLER, 0bfd66d529a55807
+appnexus.com, 8173, RESELLER, f5ab79cb980f11d1
+contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
+video.unrulymedia.com, 1858504412, RESELLER
