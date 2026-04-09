@@ -3689,6 +3689,12 @@
             "name": "Lovetoknow Media",
             "seller_id": "62f109fa-7c23-4ace-b7c1-6261dc7d3318",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "muskloft.github.io",
+            "name": "MuskLoftSoft",
+            "seller_id": "dfd7a2cf-971f-4581-ab1c-76e2a4553974",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1
