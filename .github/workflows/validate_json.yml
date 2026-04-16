@@ -2,13 +2,11 @@ name: Sellers.json validation
 
 on:
   push:
-    # Run on pushes to any branch EXCEPT main (so merge pushes to main are ignored)
     branches-ignore:
       - main
     paths:
       - "sellers.json"
   pull_request:
-    # Still run for PRs targeting main (validate before merge)
     branches:
       - main
     paths:
@@ -23,27 +21,23 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: ads
-          ref: ${{ github.head_ref }}
 
       - name: Validate sellers.json syntax
-        id: json-validate
         working-directory: ads
-        run: |
-          echo "Validating sellers.json..."
-          cat sellers.json | jq -e
+        run: jq -e . sellers.json > /dev/null
 
       - name: Update JSON timestamp
-        id: json-timestamp
         working-directory: ads
         run: |
-          echo "Updating .ext.last_updated field..."
-          cat sellers.json | jq '.ext.last_updated = (now | todate)' | tee sellers.json
+          tmp="$(mktemp)"
+          jq '.ext.last_updated = (now | todate)' sellers.json > "$tmp"
+          mv "$tmp" sellers.json
 
-      - name: Push changes (if updated)
+      - name: Commit and push changes
         working-directory: ads
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -am "Update sellers.json timestamp" || echo "No changes to commit"
+          git add sellers.json
+          git diff --cached --quiet || git commit -m "Update sellers.json timestamp"
           git push
