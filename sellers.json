@@ -3695,6 +3695,12 @@
             "name": "MuskLoftSoft",
             "seller_id": "dfd7a2cf-971f-4581-ab1c-76e2a4553974",
             "seller_type": "PUBLISHER"
+        },
+        {
+            "domain": "webtoons.com",
+            "name": "NAVER Corporation",
+            "seller_id": "e525a034-f4d0-46db-a271-42a544aad45e",
+            "seller_type": "PUBLISHER"
         }
     ],
     "version": 1

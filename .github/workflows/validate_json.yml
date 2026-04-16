@@ -2,17 +2,13 @@ name: Sellers.json validation
 
 on:
   push:
-    # Run on pushes to any branch EXCEPT main (so merge pushes to main are ignored)
     branches-ignore:
       - main
     paths:
       - "sellers.json"
-  pull_request:
-    # Still run for PRs targeting main (validate before merge)
-    branches:
-      - main
-    paths:
-      - "sellers.json"
+
+permissions:
+  contents: write
 
 jobs:
   verify-json-validation:
@@ -22,28 +18,43 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          path: ads
-          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+
+      - name: Skip bot commits (prevents infinite loop)
+        run: |
+          if [ "${{ github.actor }}" = "github-actions[bot]" ]; then
+            echo "Bot commit detected, exiting to prevent loop"
+            exit 0
+          fi
 
       - name: Validate sellers.json syntax
-        id: json-validate
-        working-directory: ads
-        run: |
-          echo "Validating sellers.json..."
-          cat sellers.json | jq -e
+        run: jq -e . sellers.json > /dev/null
 
       - name: Update JSON timestamp
-        id: json-timestamp
-        working-directory: ads
         run: |
-          echo "Updating .ext.last_updated field..."
-          cat sellers.json | jq '.ext.last_updated = (now | todate)' | tee sellers.json
+          tmp="$(mktemp)"
+          jq '.ext.last_updated = (now | todate)' sellers.json > "$tmp"
+          mv "$tmp" sellers.json
 
-      - name: Push changes (if updated)
-        working-directory: ads
+      - name: Commit and push changes (safe branch handling)
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -am "Update sellers.json timestamp" || echo "No changes to commit"
-          git push
+
+          git add sellers.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          BRANCH="${GITHUB_REF_NAME}"
+
+          # safety: strip PR merge refs like "123/merge"
+          if [[ "$BRANCH" == */merge ]]; then
+            echo "Detected merge ref, skipping push"
+            exit 0
+          fi
+
+          git commit -m "Update sellers.json timestamp"
+          git push origin HEAD:refs/heads/$BRANCH
