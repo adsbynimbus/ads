@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2026-05-11T16:53:08Z"
+    "last_updated": "2026-06-04T18:43:52Z"
   },
   "identifiers": [
     {
@@ -3706,6 +3706,12 @@
       "domain": "pandamininghelp.blogspot.com",
       "name": "MD MAHBUB HASAN SAGOR",
       "seller_id": "b76079ff-cafa-4924-bba0-e8b825e1b00f",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "musiccoast.com",
+      "name": "Music Co LLC",
+      "seller_id": "366e274d-9fa4-414d-b732-d52bf9e170b2",
       "seller_type": "PUBLISHER"
     }
   ],
