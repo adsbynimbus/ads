@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2026-06-04T18:43:52Z"
+    "last_updated": "2026-06-22T15:00:06Z"
   },
   "identifiers": [
     {
@@ -3712,6 +3712,18 @@
       "domain": "musiccoast.com",
       "name": "Music Co LLC",
       "seller_id": "366e274d-9fa4-414d-b732-d52bf9e170b2",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "badoo.com",
+      "name": "Bumble Trading LLC",
+      "seller_id": "d96fcb9c-0bab-4985-b9b2-f52c498ed72a",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "wordbit.net",
+      "name": "CNRS INC",
+      "seller_id": "960d8007-d939-4031-aa92-5cea0c5118f1",
       "seller_type": "PUBLISHER"
     }
   ],
