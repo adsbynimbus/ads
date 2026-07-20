@@ -2,7 +2,7 @@
   "contact_address": "3N Maple ave, Suite 1, Ridgewood NJ 07450",
   "contact_email": "advertising@nimbus.co",
   "ext": {
-    "last_updated": "2026-06-23T15:57:38Z"
+    "last_updated": "2026-07-20T20:29:13Z"
   },
   "identifiers": [
     {
@@ -1037,15 +1037,6 @@
       "name": "PubRev+ LLC",
       "seller_id": "94dd89cd-dee2-4bba-807f-d46fada380cd",
       "seller_type": "PUBLISHER"
-    },
-    {
-      "domain": "hungrystudio.com",
-      "name": "(Thunder) Hungry Studios",
-      "seller_id": "b34c227c-540f-421b-96f1-612c916feac2",
-      "seller_type": "PUBLISHER",
-      "ext": {
-        "skip": true
-      }
     },
     {
       "domain": "trebel.io",
@@ -3731,6 +3722,56 @@
       "name": "AppLab Studios, LLC",
       "seller_id": "24beb312-213e-4fa4-af47-08141fb6397f",
       "seller_type": "PUBLISHER"
+    },
+    {
+      "domain": "crushblocks.com",
+      "name": "Block Crush!",
+      "seller_id": "fdd4f134-9d0e-4e5e-abff-57e60882cea0",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Block Crush! is a subsidiary of a larger company, HUNGRY TECHNOLOGY PTE. LTD)",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hurelax.com",
+      "name": "Mahjong Blast: Wonder",
+      "seller_id": "fdd4f134-9d0e-4e5e-abff-57e60882cea0",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Mahjong Blast: Wonder is a subsidiary of a larger company, HUNGRY TECHNOLOGY PTE. LTD)",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hungrystudio.com",
+      "name": "Block Blast!",
+      "seller_id": "fdd4f134-9d0e-4e5e-abff-57e60882cea0",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Block Blast! is a subsidiary of a larger company, HUNGRY TECHNOLOGY PTE. LTD)",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hungrystudio.com",
+      "name": "Sudoku",
+      "seller_id": "fdd4f134-9d0e-4e5e-abff-57e60882cea0",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Sudoku is a subsidiary of a larger company, HUNGRY TECHNOLOGY PTE. LTD)",
+      "ext": {
+        "skip": true
+      }
+    },
+    {
+      "domain": "hungrystudio.com",
+      "name": "Block Blast! -VN",
+      "seller_id": "fdd4f134-9d0e-4e5e-abff-57e60882cea0",
+      "seller_type": "PUBLISHER",
+      "comment": "Publisher (Block Blast! -VN is a subsidiary of a larger company, HUNGRY TECHNOLOGY PTE. LTD)",
+      "ext": {
+        "skip": true
+      }
     }
   ],
   "version": 1
