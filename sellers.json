@@ -3772,6 +3772,12 @@
       "ext": {
         "skip": true
       }
+    },
+    {
+      "domain": "futbin.com",
+      "name": "Better Collective A/S",
+      "seller_id": "8c4995d2-133d-44b5-846c-7df0a45654eb",
+      "seller_type": "PUBLISHER"
     }
   ],
   "version": 1
