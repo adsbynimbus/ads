@@ -88,3 +88,4 @@ yieldmo.com, 3746143199094055132, RESELLER
 apexflowsdk.com, 98873 , RESELLER, c04b215ax
 insticator.com, 73dd4dc1-989d-4a4c-ae33-0b3d826dbc53, RESELLER, b3511ffcafb23a32
 mediaverse.ai, 302184828, RESELLER
+ogury.com, 13245a85-9158-46ec-be6b-c420cd62dd55, RESELLER
