@@ -83,12 +83,16 @@ appnexus.com, 8173, RESELLER, f5ab79cb980f11d1
 contextweb.com, 562001, RESELLER, 89ff185a4c4e857c
 video.unrulymedia.com, 1858504412, RESELLER
 themediagrid.com, A7OJMU, DIRECT, 9fac4a4a87c2a44f
-axis-marketplace.com ,335, RESELLER
 yieldmo.com, 3746143199094055132, RESELLER
 apexflowsdk.com, 98873 , RESELLER, c04b215ax
 insticator.com, 73dd4dc1-989d-4a4c-ae33-0b3d826dbc53, RESELLER, b3511ffcafb23a32
 mediaverse.ai, 302184828, RESELLER
 ogury.com, 13245a85-9158-46ec-be6b-c420cd62dd55, RESELLER
 pgamssp.com, 6a8f3a2c2c6a3990bb084806, RESELLER
+zetaglobal.net, 748, RESELLER
+smaato.com, 1100060452, RESELLER, 07bcf65f187117b4
 ushareit.com, LC33c484a3c3b36d69, RESELLER 
 lacunads.com, LC33c484a3c3b36d69, RESELLER
+pubnative.net, 1016724, RESELLER, d641df8625486a7b
+programmaticx.ai, 686097, RESELLER, b42d42eb28400efa
+targetbetter.com, 769083, RESELLER
