@@ -96,3 +96,4 @@ lacunads.com, LC33c484a3c3b36d69, RESELLER
 pubnative.net, 1016724, RESELLER, d641df8625486a7b
 programmaticx.ai, 686097, RESELLER, b42d42eb28400efa
 targetbetter.com, 769083, RESELLER
+blueseasx.com, 7138195, RESELLER, 7998eac5087f6110
